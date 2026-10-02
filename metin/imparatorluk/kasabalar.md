@@ -6,7 +6,7 @@
 
 ### Karnabahar Kasabası
 
-Karnabahar Kasabası, Florentina İmparatorluğu’nun en önemli tarım merkezlerinden biri olarak geniş ve verimli arazilere yayılmış planlı bir yerleşimdir. Kasaba, yaşamdan çok üretime odaklıdır; nüfus azdır ve halkın büyük kısmı tarım işçileri ile denetleyicilerden oluşur. Dayanıklı sebzeler ve tahıllar burada yoğun şekilde üretilir ve imparatorluğun gıda ihtiyacının büyük bölümü buradan karşılanır. Stratejik önemi nedeniyle güvenlik üst düzeydedir; çevresi devriyeler ve küçük garnizonlarla korunur. Ancak tek geçim kaynağının tarım olması, kasabayı kuraklık ya da hastalıklara karşı kırılgan hale getirir.
+Karnabahar Kasabası, İmparatorluğun en önemli tarım merkezlerinden biri olarak geniş ve verimli arazilere yayılmış planlı bir yerleşimdir. Kasaba, yaşamdan çok üretime odaklıdır; nüfus azdır ve halkın büyük kısmı tarım işçileri ile denetleyicilerden oluşur. Dayanıklı sebzeler ve tahıllar burada yoğun şekilde üretilir ve imparatorluğun gıda ihtiyacının büyük bölümü buradan karşılanır. Stratejik önemi nedeniyle güvenlik üst düzeydedir; çevresi devriyeler ve küçük garnizonlarla korunur. Ancak tek geçim kaynağının tarım olması, kasabayı kuraklık ya da hastalıklara karşı kırılgan hale getirir.
 
 ### Zevk Adası Kasabası
 

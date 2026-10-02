@@ -1,7 +1,7 @@
 {
   "cikti_klasoru": "docx",
   "belgeler": [
-    {"dosya": "Carya_Tarih.docx", "baslik": "CARYA TARİHİ", "altbaslik": "Başlangıçtan Arcan’ın Yükselişine", "yazar": "", "not": "", "metinler": ["tarih/01_baslangic.md","tarih/02_ates_savasi.md","tarih/03_4_illet.md","tarih/04_kaos_savasi.md","tarih/05_horusun_isyani.md","tarih/06_arcanin_yukselisi.md","tarih/07_tanrilar_cetveli.md"]},
+    {"dosya": "Carya_Tarih.docx", "baslik": "CARYA TARİHİ", "altbaslik": "Başlangıçtan Arcan’ın Yükselişine", "yazar": "", "not": "", "metinler": ["tarih/01_baslangic.md","tarih/02_ates_savasi.md","tarih/03_4_illet.md","tarih/04_kaos_savasi.md","tarih/05_horusun_isyani.md","tarih/06_arcanin_yukselisi.md","tarih/08_imparatorlugun_kurulusu.md","tarih/07_tanrilar_cetveli.md"]},
     {"dosya": "Carya_Imparatorluk.docx", "baslik": "İMPARATORLUK", "altbaslik": "Büyükşehirler, Kasabalar ve Soylu Aileler", "yazar": "", "not": "", "metinler": ["imparatorluk/buyuksehirler.md","imparatorluk/kasabalar.md","imparatorluk/soylu_aileler.md"]},
     {"dosya": "Carya_Diger_Diyarlar.docx", "baslik": "DİĞER DİYARLAR", "altbaslik": "Elf Federasyonu, Cüce Krallığı, Kuzey Krallığı ve Özgür Şehirler", "yazar": "", "not": "", "metinler": ["diger_diyarlar/elf_federasyonu.md","diger_diyarlar/cuce_kralligi.md","diger_diyarlar/kuzey_kralligi.md","diger_diyarlar/ozgur_sehirler.md"]},
     {"dosya": "Carya_Gruplar_ve_Tarikatlar.docx", "baslik": "GRUPLAR VE TARİKATLAR", "altbaslik": "Diyarın başlıca birlikleri, loncaları ve tarikatları", "yazar": "", "not": "", "metinler": ["gruplar.md"]},

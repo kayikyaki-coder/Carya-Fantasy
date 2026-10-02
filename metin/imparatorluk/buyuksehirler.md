@@ -50,7 +50,7 @@ Venture’da farklı ırk ve cinsiyetlere, İmparatorluk sınırları içinde e�
 
 ![Arcan’s Gate](../gorseller/media/image36.png)
 
-Arcan’s Gate’in kökeni, Yükseliş’ten önceki dönemlere uzanır. Şehrin temeli, Koran adlı bir büyücünün inşa ettirdiği kule etrafında atılmıştır. Zamanla bu yapı, bir eğitim ve araştırma merkezine dönüşmüş ve çevresinde büyü temelli bir yerleşim gelişmiştir.
+Arcan’s Gate’in kökeni, Yükseliş’ten önceki dönemlere uzanır. Şehrin temeli, Koran adlı bir büyücünün inşa ettirdiği kule etrafında atılmıştır. Koran güçlü bir büyücüydü ama soylu değildi; krallıkta yükselmiş ve Arcan hanesinden biriyle evlenmiş, kan bağı olmasa da bu hanenin bir parçası sayılmıştır. Boş bir arazide kurduğu büyücü kulesi, o ilerleyen yıllarda tanrılar arasındaki bir olayda yükselip tanrı katına çıkana kadar da büyümeye devam etmiştir. Kule zamanla bir eğitim ve araştırma merkezine, sonunda diyarın en büyük büyücü akademisine dönüşmüştür (elfler kendi büyücü okullarının hâlâ daha büyük olduğunu söyler). Kule doğal bir cazibe merkezi olduğundan çevresinde büyü temelli bir yerleşim gelişmiş ve bu yerleşim zamanla şehre dönüşmüştür.
 
 Kule bugün resmî bir büyü okuludur ve özellikle zahiriye alanında uzmanlaşmış büyücüler yetiştirir. Mezunlar, hem akademik çalışmalar yürütür hem de sihirli nesnelerin üretimi ve ticaretiyle uğraşır.
 

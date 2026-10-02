@@ -66,7 +66,7 @@ Kollardan gitmek, hakikatte Amarath’ın nizam ve idare yolundan gitmek sayıl�
 | Mühendis  | Yeni tapınak inşası ve eskilerin tamiri. Hariçten mühendis tutulsa dahi işin başında mukaddes biri bulunmak mecburidir.                 |
 | Hizmet    | Fukaraya yemek dağıtımı, hasta bakımı, ahaliye hizmet ve irşat.                                                                         |
 | Kayıt     | Her türlü muhaberenin ve haberin kayıt altına alınması. Haberleşmelerin ekserisi büyü yoluyla olsa da vazifeleri her şeyi kaydetmektir. |
-| Güvenlik  | Tapınağın maddi muhafazası, mukaddes mahallere girişin teftişi.                                                                         |
+| Güvenlik  | Tapınağın maddi muhafazası, mukaddes mahallere girişin teftişi. Tapınak dışındaki yargı ve infaz bu kolun değil, imparatora bağlı Engizisyon’un vazifesidir.                                                                         |
 | Eğitim    | Fidanların yetiştirilmesi, yeni görevlilerin kabulü.                                                                                    |
 | İbadet    | Mabetlerde günlük ve hususi ibadetlerin yürütülmesi; cenaze ve geçiş işleri.                                                            |
 
