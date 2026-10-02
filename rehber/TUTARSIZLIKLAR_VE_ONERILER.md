@@ -34,6 +34,7 @@ Okuma notları:
 - **Elf-Cüce Savaşları (T21):** Yeni `tarih/09_elf_cuce_savaslari.md`: Florentina Aux'tan ayrılmadan önce başladı, çağlar sürdü, insanların gelişmesine karşı elflerin ve cücelerin geri kalmasına yol açtı; bugün en yüksek nüfus ve hâkimiyet insanlarda. Savaşın bitip bitmediği yazılmadı.
 - **Kırık Kalkanlar (T13):** Düzenli ordulardan tasfiye edilmiş askerler ve büyük maceracı grupları; küçük grupları birleştirir, ücretle kiralar. İmparator, lord ya da başka krallıktan zengin biri tamamını veya bir kısmını kiralayabilir.
 - **Karga isyanı (T21, kalan):** Çok yeni bir olay; sonraya bırakıldı.
+- **Corvus ve De Santis/La Cruix (T24):** De Santis ve La Cruix Florentin'in kral ilanında ona ilk biat eden eski soylu haneler; Corvus bundan sonra, soylu olmadan, sade hizmetle bağlılığını ilan eden ilk hane.
 - **Cevapsız dualar (bilinçli tutarsızlık):** Tarih metnine göre Amarath çok zayıf ve Alarath dualara büyük ölçüde cevap veremiyor, ama tapınak ve Benton hâlâ onlara dua ediyor. Yazar kararıyla olduğu gibi bırakıldı; inananlar bu zayıflamadan habersiz sayılır.
 
 ## Özet Tablo
