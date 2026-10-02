@@ -4,7 +4,7 @@
 
 Gözyaşı Şövalyeleri, Horus İsyanı sırasında kendilerini feda ederek can veren iki şehit, Sanguinus ve Khan adına kurulmuş bir şövalye topluluğudur. Bu şövalyeler, o iki şehidin mirasını bugüne taşıyanlardır.
 
-Topluluğun adı, Horus'un Sanguinus'u öldürdüğü an gözünden süzülen tek bir damla yaştan gelir. Anlatılana göre o gözyaşını gören İmparator, öfkesini bir kat daha bilemiştir. İşte o tek damla, hem topluluğun adına hem de simgesine kazınmıştır: sarı bir zemin üzerine, kan kırmızısı bir damla ve damlanın iki yanından açılan yalın iki kanat.
+Topluluğun adı, Horus'un Sanguinus'u öldürdüğü an gözünden süzülen tek bir damla yaştan gelir. Anlatılana göre o gözyaşını gören Amarath, öfkesini bir kat daha bilemiştir. İşte o tek damla, hem topluluğun adına hem de simgesine kazınmıştır: sarı bir zemin üzerine, kan kırmızısı bir damla ve damlanın iki yanından açılan yalın iki kanat.
 
 Gözyaşı Şövalyeleri en tehlikeli vazifeleri üstlenirler; ancak onları benzerlerinden ayıran şey, sürekli olarak yukarıdan emir almamalarıdır. Yüce Baş Rahip'in buyruklarını elbette yerine getirirler, ne var ki çoğu zaman kendi başlarına hareket ederler. Tehdidin izini sürerek şehirden şehire, kırdan kıra dolaşan gezgin şövalyelerdir. Topluluğa dışarıdan katılım da kabul edilir; mutlaka belli bir soydan ya da kurumdan gelmek gerekmez. Onları asıl tanımlayan, hedefleridir: bilhassa dört Kaos tanrısından neşet eden tehdide karşı savaşırlar. Onlar, Kaos'a mahsus tehlikenin avcılarıdır.
 

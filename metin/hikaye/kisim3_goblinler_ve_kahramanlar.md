@@ -6,7 +6,7 @@ Ben çıktım.
 
 Çıkmamın bir sebebi yok aslında, ya da çok sebep var, ki bu da sebep olmamakla aynı şey. Bir tanesini söyleyebilirim: bir masada bir adam, ben yokken benim hakkımda bir şeyler söylemiş. Söylediği şey önemli değildi, ama o adamın benden bahsetmesi önemliydi. Demek ki ben artık şehirde bir isim olmuştum. İsim olmak masada işe yarar, sokakta yaramaz. İsim olan adam görünür olur, görünür olan adam vurulur. Bu yüzden bir süre kaybolmak iyidir.
 
-Bir kervana katıldım. Florentina'dan kuzeye gidiyordu, Venture üzerinden geçecek, oradan dağ köylerine açılacaktı. Tüccarların hepsini tanımıyordum ama bir tanesini biliyordum, eskiden masada karşılaşmıştık, iyi adamdı. Beni de aldı. Karşılık olarak yolda hesap tutacaktım, küçük bir iş, parasını bile vermeye gerek yok ama yedirdi içirdi.
+Bir kervana katıldım. Florentina'dan kuzeye gidiyordu, Serenquill üzerinden geçecek, oradan dağ köylerine açılacaktı. Tüccarların hepsini tanımıyordum ama bir tanesini biliyordum, eskiden masada karşılaşmıştık, iyi adamdı. Beni de aldı. Karşılık olarak yolda hesap tutacaktım, küçük bir iş, parasını bile vermeye gerek yok ama yedirdi içirdi.
 
 İlk üç gün rahattı. Yol düz, hava açık, akşamları ateş başında oturuyorduk. Tüccarlar konuşuyordu, ben dinliyordum. Tüccar dinlemek ilginçtir. Çünkü tüccar her şeyi paraya tercüme ederek konuşur. Bir köyden bahsederken nüfusunu söylemez, ne kadar satın aldıklarını söyler. Bir tanrıdan bahsederken ne öğretir demez, mabedi kim yaptırmış der. Onların gözünde dünya bir hesap defteridir. Bunu küçümsemiyorum, sadece söylüyorum. Aslında tüccarın dünyası benim dünyamdan çok da uzak değil.
 

@@ -17,6 +17,10 @@ Okuma notları:
 - **Çocuk sayısı:** Amarath ve Alarath'ın çocukları her yerde *on*. Yeryüzü Tapınağı kitabındaki "on iki" düzeltildi.
 - **Sanguinus ve Khan:** Resmî öğreti aynı kaldı (onlara niyaz edilmez). Yeryüzü Tapınağı kitabına, halkın bu iki şehide yine de seslendiğini ve tapınağın bunu hoş görmediğini ama engelleyemediğini söyleyen bir cümle eklendi. Benton'un duası ve hikâyedeki Sanguinus rahibi artık bu halk geleneği olarak okunur.
 - **Rahsan ve Chuntea:** Tarihin ilk bölümünde sorular yer değiştirdi: Rahsan "Nasıl olacak?", Chuntea "Nasıl sürecek?" der. Tanrı cetveli ve Benton'la tutarlı.
+- **Venture yönü (T3):** Edu'nun kervanı artık "Florentina'dan kuzeye, Serenquill üzerinden" gidiyor.
+- **Kurum adı (T9):** La Seraphine'deki "İmparatorluk Kilisesi" → "Yeryüzü Tapınağı"; Slezk'teki "Amarath" → "Yeryüzü İnancı"; "Gorg" → "Gork".
+- **Gözyaşı Şövalyeleri'nin "İmparator"u (T14):** Amarath.
+- **Serenquill'in katılışı (T7):** Barışla teslim; Mac Alister metni "teslim olduktan sonra" diye düzeltildi.
 - **Cevapsız dualar (bilinçli tutarsızlık):** Tarih metnine göre Amarath çok zayıf ve Alarath dualara büyük ölçüde cevap veremiyor, ama tapınak ve Benton hâlâ onlara dua ediyor. Yazar kararıyla olduğu gibi bırakıldı; inananlar bu zayıflamadan habersiz sayılır.
 
 ## Özet Tablo

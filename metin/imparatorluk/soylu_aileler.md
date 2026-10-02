@@ -110,7 +110,7 @@ Serenquill hanesinden ayrılan bir soy olarak Silverthornlar, imparatorluktaki e
 
 ![Mac Alister](../gorseller/media/image21.png)
 
-Şehir fethedildikten sonra buraya yerleştirilen Mac Alisterlar, Serenquill hanesinden sonra şehirdeki en nüfuzlu aile konumuna yükselmiştir. Öyle ki imparatorlukla en fazla akrabalık bağı bulunan soylar arasında ilk sırada anılırlar. Serenquill’de ticaretin büyük kısmını onlar üstlenir; özellikle mürekkep ticaretinde yüksek paya sahiptirler. Şehirdeki diğer ailelerin aksine bağlılıkları önce imparatora, sonra Serenquill’e olduğundan bu tutumları nedeniyle her zaman sevilmezler.
+Şehir teslim olduktan sonra buraya yerleştirilen Mac Alisterlar, Serenquill hanesinden sonra şehirdeki en nüfuzlu aile konumuna yükselmiştir. Öyle ki imparatorlukla en fazla akrabalık bağı bulunan soylar arasında ilk sırada anılırlar. Serenquill’de ticaretin büyük kısmını onlar üstlenir; özellikle mürekkep ticaretinde yüksek paya sahiptirler. Şehirdeki diğer ailelerin aksine bağlılıkları önce imparatora, sonra Serenquill’e olduğundan bu tutumları nedeniyle her zaman sevilmezler.
 
 ### O’Connor
 
@@ -198,7 +198,7 @@ Aslen Aux kökenli olan Von Draken ailesi, İmparatorluk topraklarına sonradan 
 
 ![La Seraphine](../gorseller/media/image18.png)
 
-Çok eski çağlarda Aux'taki dini baskılardan ve uyumsuzluklardan kaçarak İmparatorluğa sığınan bu aile, ilk birkaç yüzyıl boyunca farklı kültürleri ve inançları nedeniyle hep dışlanmış ve sorgulanmıştır. Ancak zamanla hayatta kalma güdüsüyle radikal bir dönüşüm geçirmiş, İmparatorluk Kilisesi'ni herkesten çok benimsemiş ve bu yeni inançta sergiledikleri yobazlıkla ün salmışlardır. Günümüzde şehirdeki diğer aileler tarafından sinsi ve fazlasıyla tehlikeli bulunurlar; ancak İmparatorluk, La Seraphine hanesini bilerek orada tutar. Çünkü güç kazanmak için rakiplerinin en ufak dini ya da yasal hatasını kollayan bu aile, Arcan's Gate’in başına buyruk büyücülerini dizginleyen mükemmel bir güvenlik sübabıdır.
+Çok eski çağlarda Aux'taki dini baskılardan ve uyumsuzluklardan kaçarak İmparatorluğa sığınan bu aile, ilk birkaç yüzyıl boyunca farklı kültürleri ve inançları nedeniyle hep dışlanmış ve sorgulanmıştır. Ancak zamanla hayatta kalma güdüsüyle radikal bir dönüşüm geçirmiş, Yeryüzü Tapınağı'nı herkesten çok benimsemiş ve bu yeni inançta sergiledikleri yobazlıkla ün salmışlardır. Günümüzde şehirdeki diğer aileler tarafından sinsi ve fazlasıyla tehlikeli bulunurlar; ancak İmparatorluk, La Seraphine hanesini bilerek orada tutar. Çünkü güç kazanmak için rakiplerinin en ufak dini ya da yasal hatasını kollayan bu aile, Arcan's Gate’in başına buyruk büyücülerini dizginleyen mükemmel bir güvenlik sübabıdır.
 
 ## Greenhall Soylu Aileleri
 
@@ -218,4 +218,4 @@ Aslen Başkent'ten gelen ve nesiller boyu ordunun en üst kademelerinde görev y
 
 ![Slezk](../gorseller/media/image26.png)
 
-Daha önce Aquamere şehrinin kozmopolit yapısında tecrübe kazanmış olan Slezk ailesi, o çok kültürlü deneyimi alıp Greenhall’un bürokratik ve dini işlerini yönetmesi için buraya gönderilmiştir. Dışarıdan bakıldığında barışçıl ve hoşgörülü bir bürokrat hanesi gibi görünürler; ancak bu yumuşak yüzeyin altında katı bir misyonerlik zihniyeti yatar. Onların nihai amacı, bölgedeki yeşilderili halkları birer araç olarak kullanmak ve onları kendi köklü inançları olan "Gorg ve Morg"dan kopararak İmparatorluğun resmî dini olan "Amarath"a geçirmektir. Slezklere göre bir yeşilderilinin ruhu ancak İmparatorluğun dinine biat ettiğinde kurtulabilir; bu yüzden hoşgörüleri aslında bir asimilasyon silahıdır.
+Daha önce Aquamere şehrinin kozmopolit yapısında tecrübe kazanmış olan Slezk ailesi, o çok kültürlü deneyimi alıp Greenhall’un bürokratik ve dini işlerini yönetmesi için buraya gönderilmiştir. Dışarıdan bakıldığında barışçıl ve hoşgörülü bir bürokrat hanesi gibi görünürler; ancak bu yumuşak yüzeyin altında katı bir misyonerlik zihniyeti yatar. Onların nihai amacı, bölgedeki yeşilderili halkları birer araç olarak kullanmak ve onları kendi köklü inançları olan "Gork ve Morg"dan kopararak İmparatorluğun resmî inancı olan Yeryüzü İnancı’na geçirmektir. Slezklere göre bir yeşilderilinin ruhu ancak İmparatorluğun dinine biat ettiğinde kurtulabilir; bu yüzden hoşgörüleri aslında bir asimilasyon silahıdır.
