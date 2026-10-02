@@ -30,7 +30,7 @@ El Birliği, varlığını gizlilik içinde sürdüren bir büyücüler birliği
 
 Tarih boyunca güçlendikleri dönemlerde etkilerini yalnızca büyü çevreleriyle sınırlı tutmamışlar; diyardaki krallıkların politikalarına dahi sızdıkları, tahtların ardındaki gizli el hâline geldikleri görülmüştür. Çoğu zaman kimse onların orada olduğunu bilmez, ama kararların şekillenmesinde parmakları vardır.
 
-Birliğin en köklü inancı ise Tanrı Arcan'ın, henüz bir insan olduğu çağdan kalan soyunun kutsal olduğudur. Bu kutsal soyun kanını taşıyanları diyarın dört bir yanında ararlar; bulduklarında onları korumayı ve nihayetinde başa, yani hak ettiklerine inandıkları yönetim mevkiine geçirmeyi kendilerine kutsal bir vazife sayarlar. El Birliği için bu soyun iktidara yükselişi, büyücülerin diyar üzerindeki gerçek hâkimiyetinin de müjdecisidir.
+Birliğin en köklü inancı ise Tanrı Arcan'ın, henüz bir insan olduğu çağdan kalan soyunun kutsal olduğudur. Archantus hanesini Koran’ın ailesi sayarlar ama kanı saymazlar; asıl aradıkları, tarihe geçmemiş olabilecek Koran’ın gerçek çocuğunun soyudur. Bu kutsal soyun kanını taşıyanları diyarın dört bir yanında ararlar; bulduklarında onları korumayı ve nihayetinde başa, yani hak ettiklerine inandıkları yönetim mevkiine geçirmeyi kendilerine kutsal bir vazife sayarlar. El Birliği için bu soyun iktidara yükselişi, büyücülerin diyar üzerindeki gerçek hâkimiyetinin de müjdecisidir.
 
 ## Sessizlik Loncası
 
@@ -70,7 +70,7 @@ Lordlar aslında bu sendikanın kendi şehirlerinde bulunmasını ya da kendi t�
 
 ## Kırık Kalkanlar
 
-Kırık Kalkanlar, tek bir paralı asker birliği değildir; diyardaki irili ufaklı tüm paralı asker bölüklerini tek bir çatı altında toplayan büyük bir sendikadır. Sözleşme koşullarını, ödenecek asgari ücretleri ve savaş meydanında uyulması gereken kuralları belirleyen merci odur. Hangi işin kaça tutulacağı, bir bölüğün hangi şartlarda saf değiştirebileceği, esirlere ve teslim olanlara nasıl davranılacağı; bütün bunlar Kırık Kalkanlar'ın koyduğu teamüllere bağlıdır.
+Kırık Kalkanlar, tek bir paralı asker birliği değildir; diyardaki irili ufaklı tüm paralı asker bölüklerini tek bir çatı altında toplayan büyük bir sendikadır. Sözleşme koşullarını, ödenecek asgari ücretleri ve savaş meydanında uyulması gereken kuralları belirleyen merci odur. Hangi işin kaça tutulacağı, bir bölüğün hangi şartlarda saf değiştirebileceği, esirlere ve teslim olanlara nasıl davranılacağı; bütün bunlar Kırık Kalkanlar'ın koyduğu teamüllere bağlıdır. Sendika çoğunlukla düzenli ordulardan tasfiye edilmiş askerleri ve büyük maceracı gruplarını bünyesinde toplar; zaman zaman içindeki küçük grupları birleştirir ve ücret karşılığında hizmete sunar. İmparator, bir lord ya da başka bir krallıktan zengin biri sendikanın tamamını ya da bir kısmını kiralayabilir.
 
 Sendikanın asıl gücü, dayanışmasındadır. Bir bölük Kırık Kalkanlar'a bağlıysa, ona kötü davranan, ücretini ödemeyen ya da sözleşmesini çiğneyen bir lord yalnızca o bölüğü değil, bütün paralı asker piyasasını karşısına almış olur. Böyle bir lordun ertesi sefer kapısını çalacağı hiçbir kılıç bulamaması, hatta bir gün kendi düşmanının saflarında o kılıçları görmesi işten bile değildir. Bu yüzden bir kez itibarını yitiren lordun bir daha güvenilir asker tutması neredeyse imkânsız hâle gelir.
 

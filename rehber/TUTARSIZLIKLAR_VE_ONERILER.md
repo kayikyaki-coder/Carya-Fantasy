@@ -29,6 +29,11 @@ Okuma notları:
 - **Blackship / Blackfish (T11):** Aynı kökten gelen, kendi aralarındaki bir kavgayla ikiye ayrılmış aile. İmparatora daha sadık kol Venture'a (Blackship), köklerine sadık kol Aquamere'de (Blackfish) kaldı.
 - **Archantus ve Koran (T19):** Koran güçlü ama soylu olmayan bir büyücüydü; Arcan hanesinden biriyle evlenip (kan bağı olmadan) o hanenin parçası oldu, boş bir arazide kule kurdu, sonra tanrı katına çıktı; kule en büyük büyücü akademisine ve çevresindeki şehre dönüştü (elflerin okulları hâlâ daha büyük). Archantus hanesi artık "Koran'ın evlilikle dâhil olduğu, Arcan'ın hanesi sayılan" aile. Okul Arcan's Gate'te. **Açık nokta:** El Birliği'nin Arcan'ın soyunu neden aradığı henüz yazılmadı.
 - **Engizisyon (T22):** İmparatora doğrudan bağlı güvenlik ve yargı gücü; başında Strazni. Alimler yasayı koyar, Güvenlik Kolu yalnız tapınak içini korur, Engizisyon diyarda yasayı uygular ve infaz eder.
+- **El Birliği'nin aradığı (T19, devam):** Koran'ın resmî çocuğu yok (belki var ama tarihe geçmedi). Archantus soyu Koran'dan değil, ailenin diğer üyelerinden devam ediyor; Koran'ın bir zamanlar aileden olmasıyla gurur duyuyorlar, bazıları Koran'ın gizli bir çocuğu olduğunu sanıyor. El Birliği asıl o gerçek (kayıp) soyu arıyor.
+- **Kuzey yarlları (T17):** Berserkhold başkent ve kralın şehri; Frostreach, Kaldurvik ve Jökulgard'ın birer yarlı var. Berserkhold'deki "yarllar" → "hane reisleri ve diğer şehirlerin yarlları".
+- **Elf-Cüce Savaşları (T21):** Yeni `tarih/09_elf_cuce_savaslari.md`: Florentina Aux'tan ayrılmadan önce başladı, çağlar sürdü, insanların gelişmesine karşı elflerin ve cücelerin geri kalmasına yol açtı; bugün en yüksek nüfus ve hâkimiyet insanlarda. Savaşın bitip bitmediği yazılmadı.
+- **Kırık Kalkanlar (T13):** Düzenli ordulardan tasfiye edilmiş askerler ve büyük maceracı grupları; küçük grupları birleştirir, ücretle kiralar. İmparator, lord ya da başka krallıktan zengin biri tamamını veya bir kısmını kiralayabilir.
+- **Karga isyanı (T21, kalan):** Çok yeni bir olay; sonraya bırakıldı.
 - **Cevapsız dualar (bilinçli tutarsızlık):** Tarih metnine göre Amarath çok zayıf ve Alarath dualara büyük ölçüde cevap veremiyor, ama tapınak ve Benton hâlâ onlara dua ediyor. Yazar kararıyla olduğu gibi bırakıldı; inananlar bu zayıflamadan habersiz sayılır.
 
 ## Özet Tablo
