@@ -116,7 +116,7 @@ Serenquill hanesinden ayrılan bir soy olarak Silverthornlar, imparatorluktaki e
 
 ![O’Connor](../gorseller/media/image20.png)
 
-Diğer ailelere kıyasla gücünü büyük ölçüde yitirmiş olan O’Connorlar, geçmişte Aux İmparatorluğu safında Florentina’ya karşı savaşmışlardır. Zaman içinde Aux’tan kaçmak zorunda kalıp Florentina İmparatorluğu’na sığınmış ve Serenquill’e yerleşmişlerdir. Bugünlerde ise eski şan ve şöhretlerini geri kazanmak için sabırla çalışır, kaybettikleri itibarı adım adım yeniden inşa etmeye uğraşırlar.
+Diğer ailelere kıyasla gücünü büyük ölçüde yitirmiş olan O’Connorlar, geçmişte Aux Krallığı safında Florentina’ya karşı savaşmışlardır. Zaman içinde Aux’tan kaçmak zorunda kalıp Florentina İmparatorluğu’na sığınmış ve Serenquill’e yerleşmişlerdir. Bugünlerde ise eski şan ve şöhretlerini geri kazanmak için sabırla çalışır, kaybettikleri itibarı adım adım yeniden inşa etmeye uğraşırlar.
 
 ### Nightvale
 

@@ -60,7 +60,7 @@ Görünürde dağınık ve başıboş gezen gruplar gibi görünseler de aslınd
 
 ## Altın Terazi Sendikası
 
-Altın Terazi Sendikası, diyarın en büyük tüccar sendikasıdır. Bir banka gibi işleyen devasa bir tüccar birliğidir; kredi verir, mevduat tutar, borç senetleri düzenler, ticaret yollarını ve diyar genelindeki fiyat dengesini elinde bulundurur. Bir malın bir uçtan diğer uca hangi fiyata gideceği, çoğu zaman fiilen onların belirlediği denge üzerinden şekillenir.
+Altın Terazi Sendikası, diyarın en büyük tüccar sendikasıdır. Bir banka gibi işleyen devasa bir tüccar birliğidir; Venture’daki İmparatorluk Bankası’ndan ayrıdır: banka devletin hazinesini yürütür, sendika ise tüccarların kendi ağıdır. kredi verir, mevduat tutar, borç senetleri düzenler, ticaret yollarını ve diyar genelindeki fiyat dengesini elinde bulundurur. Bir malın bir uçtan diğer uca hangi fiyata gideceği, çoğu zaman fiilen onların belirlediği denge üzerinden şekillenir.
 
 Sendikanın temel amacı, tüccarların haklarını lordlara karşı korumaktır. Tek başına bir tüccar bir lordun keyfî vergisi, el koyması ya da baskısı karşısında çaresizdir; ama Altın Terazi'nin mührünü taşıyan bir tüccara dokunmak, koca bir sermaye ağını karşısına almak demektir.
 
