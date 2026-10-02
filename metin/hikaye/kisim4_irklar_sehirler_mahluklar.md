@@ -1,10 +1,10 @@
-# **DÖRDÜNCÜ KISIM: IRKLAR, ŞEHİRLER VE DİĞER İNSAN BENZERİ MAHLUKLAR**
+# Dördüncü Kısım: Irklar, Şehirler ve Diğer İnsan Benzeri Mahlukler
 
 Bu kitabı yazmamın bir sebebi de şudur: insan denilen mahluk konusunda kafam karışık değil. Karışık olan bazı okurların kafası. Onlar için yazıyorum bu bölümü. Eğer hayatınız boyunca sadece kendi ırkınızdan insanlarla yaşadıysanız, sizi tebrik ederim, ya bir köyde doğdunuz ya da çok rahat bir hayatınız var. Geri kalanımız için dünyada başka türden mahluklar da var ve onlarla bir şekilde geçinmek gerekiyor. Ya da geçinmemek. Ben ikincisini tercih ediyorum çoğu zaman, ama herkes seçemez.
 
 Önce şunu söyleyeyim: ırk, insanın kişiliğini tam olarak belirlemez. Bir ırkın her bireyi aynı değildir. İstisnalar her zaman vardır. Yine de ırkın bir genel havası vardır, bir genel rüzgârı, bir genel huyu, ve bu rüzgâr bireylerin çoğunu etkiler. Edu yıllar boyunca masada, sokakta, meyhanede, kervanda, hapishanede, hastane kapısında her türden mahluku gördü, ve şu yargılar bu görmelerin tortusudur. Beğenmeyenler iade edebilir. Param yok ama satın aldıkları kitabın değerini iade ederim, sözüm söz.
 
-#### **Elfler**
+### Elfler
 
 Elf bir varlık değil, bir yavaşlamadır.
 
@@ -18,7 +18,7 @@ Masada bir elf varsa dikkat edilmesi gereken iki şey vardır. Birincisi, sabır
 
 Elflerle yatmaya gelince, bunu söylemem gerek çünkü herkes merak eder ve kimse sormaz. Elf kadın insan kadından farklıdır, ama anlattıkları kadar farklı değildir. Yavaşladığını söyledim, bu yatakta da geçerlidir. Ne iyi ne kötü, sadece farklı bir tempo. Şunu söyleyebilirim ki elf kadın sabah konuşmaktan hoşlanmaz, bunu da daha önce yazdım, tekrarlamayayım. Bir de elf kadın eğer sizi hatırlarsa, bir sonraki karşılaşmanızda size aynı kişi muamelesi yapar, sanki on yıl geçmemiş gibi. Bu hem hoş hem korkutucu.
 
-#### **Half-elf'ler**
+### Half-elf'ler
 
 Half-elf'in tek sorunu nereye ait olduğunu bilmemesidir.
 
@@ -28,7 +28,7 @@ Bu yalnızlık çoğu half-elf'i ya çok hassas yapar ya çok kibirli. Üçünc�
 
 Ama bu üçüncü tip azdır. Çoğu half-elf hâlâ bir şeyin peşinde, bir tanınma, bir kabul, bir ait olma. Edu onlara üzülür. Üzülmesinin bir manası yok ama olur işte. Belki ben de bir half-elf'im aslında, bilemiyorum, kim bilir kimden geldim. Çoğumuz bilmiyor.
 
-#### **Cüceler**
+### Cüceler
 
 Cüceyi tek kelimeyle tarif edebilirim: inat.
 
@@ -42,11 +42,11 @@ Onlarla masada oynamak ilginçtir. Cüce kaybetmez, kaybedemez. Yani matematikse
 
 Onlarla işbirliği yapmak ise zevklidir. Bir cüce sizinle anlaştığında, sözünden dönmesi imkânsızdır. Sözleşme yapmaya gerek yok cüceyle, sözü zaten sözleşmedir.
 
-#### **Gnome'lar**
+### Gnome'lar
 
 Gnome'lar konusunda bir hipotezim var. Tanrılar onları yarattığında bir amaç vermeyi unutmuş.
 
-Bunu kötü niyetle söylemiyorum, sadece gözlemim. Diğer ırkların hepsinin bir doğal yatkınlığı vardır. Elf uzun yaşar, cüce taş işler, insan açgözlüdür, goliath güçlüdür. Gnome'un böyle bir doğal yeri yoktur. Küçüktür ama cüce kadar değil, akıllıdır ama büyücü kadar değil, becerikldir ama bir hırsız kadar değil. Her şeyin biraz altıdır.
+Bunu kötü niyetle söylemiyorum, sadece gözlemim. Diğer ırkların hepsinin bir doğal yatkınlığı vardır. Elf uzun yaşar, cüce taş işler, insan açgözlüdür, goliath güçlüdür. Gnome'un böyle bir doğal yeri yoktur. Küçüktür ama cüce kadar değil, akıllıdır ama büyücü kadar değil, becerikli ama bir hırsız kadar değil. Her şeyin biraz altıdır.
 
 Bu yüzden gnome ne yapar? Kendine bir amaç bulur. Ve bu amaca takılır.
 
@@ -60,7 +60,7 @@ Bu insanları ben severim aslında. Çünkü kendi anlamsızlıklarını doldura
 
 Gnome'larla masada oynanır, kazanmak kolaydır, çünkü kafalarının yarısı her zaman başka bir yerdedir. Saatte, mantarda, teorisinde. Masaya tam dönemezler. Yine de kazanmak için kötülük yapmayın gnome'a. Onlar zaten bu dünyada sebepsiz duruyorlar, sebepsiz duran adamı ezmek başka bir tür çirkinliktir.
 
-#### **Halfling'ler**
+### Halfling'ler
 
 Halfling konusunda söylemem gereken şey hoş bir şey değil ama söylemeden geçemeyeceğim.
 
@@ -76,7 +76,7 @@ Masada halfling tehlikelidir. Çünkü kaybettiğinde de neşelidir, kazandığ�
 
 Halfling iyi insanlardır aslında. Sadece... yorucudurlar. Ben kişisel olarak yıllarca onlardan uzak durdum. Sebebini söyledim. Mutsuz adamın yanında daha mutsuz olduğum ırktır.
 
-#### **Goliath'lar**
+### Goliath'lar
 
 Goliath bir ırk değil, bir doğal afet türüdür.
 
@@ -90,7 +90,7 @@ Bu yüzden goliath ile dövüşmemek gerekir. Çünkü goliath sizinle dövüşm
 
 Onları severim. Masada oynamazlar genelde, ama bir meyhanede yan masalarına otursanız, sohbet basittir, neşelidir, hesap yapmaya gerek yoktur. Bir ara ben de goliath olmak isterdim, sonra omurgama baktım, vazgeçtim. Çocuğum olursa ben de goliath gibi büyütürdüm. Bir tek doğru gördüğünü yap, dur, başka düşünme. Ne kadar huzurlu bir hayat olurdu.
 
-#### **Kadınlar**
+### Kadınlar
 
 Bu bir ırk değil, biliyorum. Ama ayrı bir bölüm hak ediyor, çünkü kadınlar her ırktan farklıdır, hatta kendi ırklarından bile farklıdırlar.
 
@@ -116,7 +116,7 @@ Half-elf kadınlar ise en zor olanlardır. Çünkü içleri karışıktır. Yakl
 
 Bu kadarı yeter ırklar için. Sonraki kısımda şehirler. Onlar belki insanlardan da daha farklıdır birbirinden.
 
-#### **ŞEHİRLERE GELİNCE**
+### Şehirlere Gelince
 
 Florentina hakkında konuşmaya gerek yok. Yaşadığım şehir burası. İmparatorluk dedikleri şey aslında Florentina'dır. Geri kalanı bir hikâyedir. Florentina'da bir imparator var, bir hükümet var, bir düzen var, bir tarih var. Diğer şehirler bu hikâyeye dahil olduklarını sanıyor, ama dahil değiller. Sadece vergi veriyorlar ve karşılığında bayrağı kabul ediyorlar. Bu kadar.
 
@@ -124,7 +124,7 @@ Florentina'da bir kahve içtiğinizde, bir sokakta yürüdüğünüzde, bir akş
 
 Bu mantığı sevenler olur, sevmeyenler olur. Sevmeyenler başka şehirleri övebilirler. Onları dinlemem.
 
-#### **Venture**
+### Venture
 
 Venture'da her şey paradır. Her şey.
 
@@ -140,7 +140,7 @@ Venture'da kumar oynanır mı? Oynanır ama farklıdır. Burada kumar bir yatır
 
 Bir de Venture kadınları konusu. Onlar konusunda söylemem gereken çok şey var ama bu kitap onun yeri değil. Şu kadarını söyleyeyim: Venture'da her şeyin fiyatı vardır, ama her şeyin sahnesi de vardır. Sahneyi takip ederseniz, fiyatı ödemek zorunda kalmazsınız. Bunu anlayan az adam vardır, anlamayanlar Venture'da bir hafta da kalmaz, paraları yetmez.
 
-#### **Arcan's Gate**
+### Arcan's Gate
 
 Bu şehre gittim, geri döndüm, bir daha gitmem.
 
@@ -160,21 +160,21 @@ Midem bulanıyor şehri düşününce. Bir adamın kendine bir tek değeri varsa
 
 Bir şehir olarak Arcan's Gate kanaatimce hastadır.
 
-#### **Serenquell**
+### Serenquill
 
-Serenquell aslında şehir bile değil. Büyük bir kasabadır. Sokakları geniştir, evler arası mesafeler büyüktür, kalabalık sayılmaz. Soğuktur, çünkü kuzeydedir, ve uzun süreli yağmurları olur.
+Serenquill aslında şehir bile değil. Büyük bir kasabadır. Sokakları geniştir, evler arası mesafeler büyüktür, kalabalık sayılmaz. Soğuktur, çünkü kuzeydedir, ve uzun süreli yağmurları olur.
 
-Bu şehir hakkında söyleyebileceğim güzel şeyler var, garip ama. Çünkü Serenquell'de insan kendini dinleyebilir. Florentina'da kendinizi dinlemek imkânsızdır, her yerden ses gelir, her köşede biri konuşur. Serenquell'de sokakta yürürken bazen on dakika kimseyle karşılaşmazsınız. Bu kimi yorar, kimi rahatlatır.
+Bu şehir hakkında söyleyebileceğim güzel şeyler var, garip ama. Çünkü Serenquill'de insan kendini dinleyebilir. Florentina'da kendinizi dinlemek imkânsızdır, her yerden ses gelir, her köşede biri konuşur. Serenquill'de sokakta yürürken bazen on dakika kimseyle karşılaşmazsınız. Bu kimi yorar, kimi rahatlatır.
 
-Edu'yu rahatlatır. Bir hafta orada kaldım bir zamanlar, sebebini söylemeyeceğim. O hafta hiç kumar oynamadım. Hiç içmedim. Sadece yürüdüm, oturdum, baktım. Çay içtim, tütün içtim, bir kitap okudum. Bir kadınla bile yatmadım. Bunu söylediğimde bana inanmıyorlar, ama gerçektir. Serenquell sizden o tür şeyleri istemez.
+Edu'yu rahatlatır. Bir hafta orada kaldım bir zamanlar, sebebini söylemeyeceğim. O hafta hiç kumar oynamadım. Hiç içmedim. Sadece yürüdüm, oturdum, baktım. Çay içtim, tütün içtim, bir kitap okudum. Bir kadınla bile yatmadım. Bunu söylediğimde bana inanmıyorlar, ama gerçektir. Serenquill sizden o tür şeyleri istemez.
 
 İnsanları sakindir. Konuşurken bağırmaz, gülerken sallanmaz. Akşamları herkes erkenden eve gider. Bir geleneği olmayan bir şehir, ama tam o yüzden bir geleneği var: gelenek yok diye bir gelenek. Bunu sevdim.
 
 Ama uzun süre orada kalamazsınız. Edu kalamaz en azından. Çünkü bir süre sonra sessizlik bir parazit gibi yer içinizi. Kendinizi dinlemekten yorulursunuz, başkasını dinlemek istersiniz. Florentina'ya geri döndüm, geldiğim ilk gece bir handa kalkıp sokağa çıktım, bir saat orada durdum, sadece sesi dinledim. Bir adam karısına bağırıyordu, bir köpek havlıyordu, bir at nallı taşların üstünden geçiyordu, biri şarkı söylüyordu uzaktan. Cennetti.
 
-Yine de bir bunalım anınız olursa, bir kavga sonrası, bir kayıp sonrası, bir aldatma sonrası, Serenquell iyi bir yerdir. Bir hafta gidin, geri dönün. Sizi kurmaz ama sizi açar. Kurmak Florentina'nın işi.
+Yine de bir bunalım anınız olursa, bir kavga sonrası, bir kayıp sonrası, bir aldatma sonrası, Serenquill iyi bir yerdir. Bir hafta gidin, geri dönün. Sizi kurmaz ama sizi açar. Kurmak Florentina'nın işi.
 
-#### **Aquamere**
+### Aquamere
 
 Aquamere'i sevdim sevmedim, ben de bilmiyorum.
 
@@ -188,7 +188,7 @@ Yine de orada zevkli bir şey vardır. Sabahları balıkçılar denize çıkar, 
 
 Aquamere'in yemekleri iyidir. Buna itiraz edemem. Florentina balığı kuru kalır ama Aquamere balığı yağlıdır, çünkü hemen çıkar denizden, hemen pişer, hemen yenir. Bir liman şehrinin yemek anlamında üstünlüğü vardır, kabul etmek lazım. Yine de tuz kokusunu yenir miyim diye sorarsanız, hayır. Bir hafta yeter o şehirden.
 
-#### **Greenhall**
+### Greenhall
 
 Gitmedim.
 
@@ -204,6 +204,6 @@ Bir gün bir half-ork ile karşılaştım Florentina'da, masada. Düzgün adamd�
 
 Bu kitabı okuyan biri bir gün Greenhall'a giderse, dönüp anlatabilir bana. Belki dinlerim, belki dinlemem.
 
-İmparatorluk dedikleri şey, sonuç olarak, bir hile. Florentina diğer şehirleri yönetiyor sanılır ama yönetmiyor, çünkü yönetilmeyi kabul etmemişler aslında. Sadece bir kâğıt imzalanmış, vergi ödeniyor, bayrak asılı. Geri kalanı kendi başlarına. Venture parayı kovalıyor, Aquamere balığı kovalıyor, Arcan's Gate büyüyü kovalıyor, Serenquell hiçbir şeyi kovalamıyor, Greenhall ise üçüncü bir ırkla bir orta yol bulmaya çalışıyor.
+İmparatorluk dedikleri şey, sonuç olarak, bir hile. Florentina diğer şehirleri yönetiyor sanılır ama yönetmiyor, çünkü yönetilmeyi kabul etmemişler aslında. Sadece bir kâğıt imzalanmış, vergi ödeniyor, bayrak asılı. Geri kalanı kendi başlarına. Venture parayı kovalıyor, Aquamere balığı kovalıyor, Arcan's Gate büyüyü kovalıyor, Serenquill hiçbir şeyi kovalamıyor, Greenhall ise üçüncü bir ırkla bir orta yol bulmaya çalışıyor.
 
 Florentina ise bütün bunları izliyor ve kendini merkez sanıyor. Belki haklıdır, belki haksızdır, kararı tarihçilere bırakırım. Ben yaşadığım sürece Florentina bana yeter. Diğer şehirleri görmem güzel oldu, çünkü Florentina'nın değerini daha iyi anladım. Bir şeyin değerini anlamak için bazen ondan ayrılmak gerekir.

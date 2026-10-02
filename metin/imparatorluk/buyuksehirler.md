@@ -1,12 +1,10 @@
-# İmparatorluk Şehirleri
-
-## Önsöz
+# Büyükşehirler
 
 İmparatorluk toprakları çok sayıda yerleşim yerine ev sahipliği yapar. Bunlardan altısı, bulundukları bölgelerin siyasal, ekonomik ve toplumsal merkezleri olmaları nedeniyle “Büyükşehir” olarak anılır. Bu eser, öncelikle bu altı Büyükşehir’i ele almakta, ardından İmparatorluk sınırları içindeki diğer yerleşimleri tanıtmaktadır.
 
-## Büyükşehirler
+## Florentina
 
-## Florentina Şehri<img src="../gorseller/media/image32.png" style="width:1.1811in;height:1.18036in" />
+![Florentina](../gorseller/media/image32.png)
 
 Florentina, İmparatorluk’un başkentidir ve idari, ekonomik ve kültürel yapısıyla tüm coğrafyada belirleyici bir konuma sahiptir. İmparator’un ikametgâhı bu şehirde bulunur; yönetimle ilgili tüm kararlar, Florentina’daki taht odasından alınır. Bu durum, şehri yalnızca bir yerleşim değil, aynı zamanda İmparatorluk’un güç ve denge merkezi hâline getirir.
 
@@ -20,7 +18,9 @@ Florentina, büyücülükten hukuka, zanaatten tarıma kadar birçok alanda geli
 
 Genel olarak Florentina, istikrar ve denge üzerine kurulmuş bir şehir olarak tanımlanabilir. Yönetim, inanç, meslek örgütleri ve toplumsal düzen birbirini tamamlayacak biçimde işler. Bu yapı, Florentina’yı hem İmparatorluk’un en gelişmiş şehirlerinden biri yapmış hem de diğer büyükşehirlere yön veren bir merkez hâline getirmiştir.
 
-## Serenquill Şehri<img src="../gorseller/media/image35.png" style="width:1.1811in;height:1.1811in" />
+## Serenquill
+
+![Serenquill](../gorseller/media/image35.png)
 
 Serenquill, Florentina’nın kuzeyinde yer alır ve İmparatorluk’a olan güçlü bağlılığıyla tanınır. Şehir, çevresini kuşatan bataklıklar sayesinde kara yoluyla gelecek tehditlere karşı doğal bir savunmaya sahiptir. Şehre erişimin sınırlı geçitlerle sağlanması, güvenlik açısından önemli bir avantaj oluşturur.
 
@@ -32,11 +32,11 @@ Eğitim şehir yaşamında önemli bir yer tutar. Okuryazarlık oranı yüksekti
 
 Serenquill halkı genellikle içe dönük, sade ve toplumsal uyumu önceleyen bir karaktere sahiptir. Şehre duyulan bağlılık, bireysel kimliğin önemli bir parçası olarak görülür ve bu bağlılık, İmparator’a duyulan sadakatle birleşir. Düzenin korunması, Serenquill’de ortak bir sorumluluk olarak kabul edilir.
 
-## 
+## Venture
 
-## Venture Şehri
+![Venture](../gorseller/media/image22.png)
 
-Venture, Florentina’nın güneyinde yer alır ve İmparatorluk içinde “fırsatlar şehri” olarak anılır. Verimli topraklara sahip olmasına rağmen, şehri asıl öne çıkaran unsur ticaretin merkezî bir faaliyet hâline gelmiş olmasıdır.<img src="../gorseller/media/image22.png" style="width:1.1811in;height:1.18036in" />
+Venture, Florentina’nın güneyinde yer alır ve İmparatorluk içinde “fırsatlar şehri” olarak anılır. Verimli topraklara sahip olmasına rağmen, şehri asıl öne çıkaran unsur ticaretin merkezî bir faaliyet hâline gelmiş olmasıdır.
 
 Ticaret yollarının kesişiminde bulunan Venture’da ekonomik hareketlilik yüksektir. Bir tüccarın kısa sürede servet kazanması ya da her şeyini kaybetmesi olağan kabul edilir. Bu nedenle şehir halkı ekonomik risklerle yaşamaya alışkındır.
 
@@ -46,7 +46,9 @@ Ticaret yollarının kesişiminde bulunan Venture’da ekonomik hareketlilik yü
 
 Venture’da farklı ırk ve cinsiyetlere, İmparatorluk sınırları içinde eşit yaklaşım benimsenir. Şehrin simgesel renklerinden biri olan kırmızı, kamu yapılarından pazar tezgâhlarına kadar birçok alanda görülür ve gül bahçeleriyle birlikte şehir kimliğini tamamlar.
 
-## Arcan’s Gate Şehri<img src="../gorseller/media/image36.png" style="width:1.1811in;height:1.18036in" />
+## Arcan’s Gate
+
+![Arcan’s Gate](../gorseller/media/image36.png)
 
 Arcan’s Gate’in kökeni, Yükseliş’ten önceki dönemlere uzanır. Şehrin temeli, Koran adlı bir büyücünün inşa ettirdiği kule etrafında atılmıştır. Zamanla bu yapı, bir eğitim ve araştırma merkezine dönüşmüş ve çevresinde büyü temelli bir yerleşim gelişmiştir.
 
@@ -56,7 +58,9 @@ Kule bugün resmî bir büyü okuludur ve özellikle zahiriye alanında uzmanla�
 
 Büyücüler arasındaki rekabet, soyluların güç arayışı ve merkezi otoritenin müdahaleleri arasında kırılgan bir denge bulunur. Tarihsel kayıtlarda, bu dengenin bozulduğu dönemlerde ciddi siyasi ve büyüsel çalkantılar yaşandığı görülür. Günümüzde Arcan’s Gate, kapalı ama yüksek derecede organize bir bilgi ve üretim merkezi olarak varlığını sürdürmektedir.
 
-## Aquamere Şehri<img src="../gorseller/media/image39.png" style="width:1.1811in;height:1.18036in" />
+## Aquamere
+
+![Aquamere](../gorseller/media/image39.png)
 
 Aquamere, İmparatorluk’un en önemli kıyı şehirlerinden biridir ve geniş limanlarıyla deniz ticaretinin merkezinde yer alır. Şehir, denizle kurduğu doğrudan ilişki sayesinde ekonomik ve kültürel açıdan özgün bir yapı kazanmıştır.
 
@@ -66,7 +70,9 @@ Aquamere resmî olarak İmparatorluk’a bağlıdır; ancak yerel gelenekler ve 
 
 Genel olarak Aquamere, deniz ticaretinin kalbi olması ve farklı halkların ortak yaşam kurabildiği nadir merkezlerden biri olmasıyla öne çıkar.
 
-## Greenhall Şehri<img src="../gorseller/media/image33.png" style="width:1.1811in;height:1.18036in" />
+## Greenhall
+
+![Greenhall](../gorseller/media/image33.png)
 
 Greenhall, İmparatorluk’un ormanlık sınır bölgelerinde yer alır ve hem coğrafi hem de toplumsal yapısıyla diğer büyükşehirlerden ayrılır. İnsanlar ile yeşil derili halkların birlikte yaşadığı bu şehir, karşılıklı anlaşma temelinde kurulmuştur.
 

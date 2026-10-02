@@ -1,4 +1,4 @@
-# **ÜÇÜNCÜ KISIM: GOBLİNLER VE KAHRAMANLAR**
+# Üçüncü Kısım: Goblinler ve Kahramanlar
 
 Florentina'dan çıktığımda otuz yaşımı yeni doldurmuştum. Şehri sevdiğimi söyledim hep, hâlâ söylerim, ama şehir bazen bir taş gibi sırtınıza basar. Yıllar boyunca aynı sokaklar, aynı yüzler, aynı masalar... Bir yerden sonra şehir size kendinizi gösterir. O an iki şeyden birini yaparsınız: ya rahat edersiniz, ya çıkarsınız.
 

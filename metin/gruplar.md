@@ -1,4 +1,4 @@
-# Carya Evreni — Gruplar ve Tarikatlar
+# Gruplar ve Tarikatlar
 
 ## Gözyaşı Şövalyeleri
 
@@ -38,7 +38,7 @@ Bir suikastçı ve istihbarat şebekesidir. Lordlar ve tüccar evleri tarafında
 
 Lonca, Omnialis şehri merkezlidir; çünkü resmî olarak yalnızca burada kurulu bulunmasına göz yumulur, başka hiçbir şehirde böyle bir lonca kurma izni yoktur. Buna rağmen diyarın geri kalan şehirlerinde de el altından aktiftir.
 
-*Kuruluş Hikâyesi*
+### Kuruluş Hikâyesi
 
 Elf-Cüce Savaşları'nın en kanlı yıllarında, savaş meydanlarında nam salmış bir elf savaşçısı yaşarmış. Onun yeteneği yalnızca kendi kılıcından değil, yüreğinden gelirmiş: bir elf prensesine âşıkmış ve savaştığı her muharebede onun için savaşırmış. Prenses de cephede onun yanındaymış; ikisi birlikte cücelere meydanlarda büyük zorluk çıkarırlarmış.
 
@@ -78,7 +78,7 @@ Lordlar bu sendikanın gücünden hiç hoşlanmaz; çünkü askeri iş gücü ü
 
 Böylece iki taraf arasında, ne birinin ne ötekinin kesin üstünlük kurabildiği kırılgan bir denge oluşur. Lordların altınına ve savaşlarına muhtaç olan sendika ile sendikanın kılıçlarına muhtaç olan lordlar, birbirinden hoşlanmasa da birbirine katlanmayı öğrenmiştir.
 
-*Kuruluş Hikâyesi*
+### Kuruluş Hikâyesi
 
 Sendikanın adı, kendisinden çok önce yaşanmış bir ihanetten gelir. Anlatılana göre bir zamanlar büyük bir lord, kazanması imkânsız görünen bir muharebede paralı bir bölüğü en ön safa, düşmanın tam ağzına sürmüş. Bölüğe vaat edilen altın ödenmemiş; dahası, savaşın gidişatı döndüğünde lord kendi atlılarını geri çekmiş ve o paralı askerleri ardına bile bakmadan ölüme terk etmiş. Kuşatılan bölük son adamına kadar kırılmış. Geriye yalnızca çamura saplanmış, parçalanmış kalkanları kalmış.
 

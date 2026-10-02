@@ -1,4 +1,4 @@
-# **BEŞİNCİ KISIM: BİLGİ TÜCCARLIĞI**
+# Beşinci Kısım: Bilgi Tüccarlığı
 
 Edu bilgi alır, satar, taşır, saklar, unutur. Bunların hepsi farklı sanatlardır ama birbirine bağlıdır. Bunları doğru kullanmayı bilen adam, bir altın bile harcamadan zengin yaşar. Bilmeyen ise bir kese altınla beş gün dayanır.
 

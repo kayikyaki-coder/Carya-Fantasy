@@ -1,4 +1,4 @@
-# **BİRİNCİ KISIM: TERZİ ÇOCUĞU**
+# Birinci Kısım: Terzi Çocuğu
 
 Florentina'da doğmak bir şans mı, yoksa bir yük mü, bunu hâlâ bilmiyorum. Bildiğim şu: bu şehirde doğmak sizi otomatik olarak bir şeyin parçası yapıyor. Hangi mahalle, hangi sokak, hangi binanın kaçıncı katı... bunların hepsi sizin hakkınızda bir şeyler söylüyor, siz daha ağzınızı açmadan. Edu bu şehirde doğdu. Şehrin kalbinde değil, ama ucunda da değil. Ortasında bir yerde. Tıpkı her şeyin ortasında olduğu gibi.
 

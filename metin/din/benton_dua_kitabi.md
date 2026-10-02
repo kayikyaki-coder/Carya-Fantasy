@@ -1,12 +1,6 @@
-**Rahip Benton'un**
+# Giriş
 
-**Dua Kitabı**
-
-*Halkın Kullanımı İçin Kaleme Alınmıştır*
-
-**Giriş**
-
-**Bu Kitabın Neden Yazıldığı Üzerine**
+## Bu Kitabın Neden Yazıldığı Üzerine
 
 Bu kitap, büyük şehirlerin bilginleri için değil yalnızca; tarlada çalışan, koyun güden, demir döven, çocuk büyüten, kervan bekleyen, ormanda yol arayan, hasta başında sabahlayan insanlar için de yazılmıştır. Hatta belki en çok onlar için yazılmıştır. Çünkü bu dünyada tanrılar yalnızca rahiplerin, büyücülerin ya da soyluların meselesi değildir. Yağmurun zamanında yağıp yağmaması, doğan çocuğun yaşayıp yaşamaması, ölülerin huzur bulup bulmaması, savaşın hangi kapıya dayanacağı, hastalığın kimi alıp kimi bırakacağı, geceleri görülen düşlerin hayır mı şer mi getireceği gibi meseleler, her insanın payına düşer. Bu yüzden tanrılar hakkında bilgi sahibi olmak, yalnızca mabette oturanların işi değildir. Herkes, gücü yettiği kadar, içinde yaşadığı dünyanın kimler tarafından gözetildiğini, kimler tarafından sarsıldığını ve hangi yollara neden dikkat edilmesi gerektiğini bilmelidir.
 
@@ -28,9 +22,7 @@ Son olarak şunu söyleyeyim: Herkesin bu kitaptan alacağı şey aynı olmayaca
 
 Bu yüzden bu satırları dikkatle okuyunuz. Ezberlemek için değil, ayırt etmeyi öğrenmek için okuyunuz. Her sözü hemen hükme çevirmek için değil, doğru zamanda hatırlamak için okuyunuz. Dünya eskidir, insan ömrü kısadır, akıl ise çoğu zaman geç kalır. Bu gecikmeyi biraz olsun azaltmak için kalem oynatıyorum. Geri kalan hükmü ise ne ben veririm, ne bu kitap verir. Onu zaman, ölüm ve tanrılar verir.
 
-**1. Bölüm**
-
-**Tanrılar Nedir, Ne Değildir?**
+# 1. Bölüm: Tanrılar Nedir, Ne Değildir?
 
 Bu bölümü yazmak, tanrıların adlarını tek tek saymaktan daha önemlidir. Çünkü bir insan neye baktığını bilmezse, gördüğü şeyi de doğru anlayamaz. Tarlasında çalışan biri için yağmur yalnızca yağmur gibi görünebilir; ama bazen insan, gördüğü şeyin ardında başka bir düzen bulunduğunu da bilmelidir. Aynı şekilde her olağanüstü olay tanrısal değildir, her korkutucu şey de şeytani değildir. Bu yüzden önce şunu ayırmak gerekir: Tanrı nedir, ne değildir?
 
@@ -60,13 +52,11 @@ Benim kanaatimce iyi bir insan olmak, çoğu zaman doğru tanrıyı seçmekten �
 
 O halde bu bölümün sonuna gelirken şunu açıkça yazayım: Tanrılar gerçektir. Yüksektirler. Eski ve kudretlidirler. Kimi daha açık görünür, kimi daha kapalı kalır. Kimi korur, kimi dener, kimi cezalandırır, kimi çağırır, kimi yalnızca bekler. Hangisinin ne kadar güçlü olduğunu tartışmak bilginlerin işi olabilir; ama çoğu insan için bu, sandıkları kadar önemli değildir. Asıl önemli olan şudur: Biz neyiz? Biz sözümüzde duran insanlar mıyız? Çocuklarımızı koruyan, ölümüzü hakkıyla uğurlayan, ekmeğimizi helal kazanan, öfkemizi dizginleyen, korkumuzla baş etmeyi öğrenen insanlar mıyız? Tanrılar üzerine düşünmenin faydası burada başlar. Çünkü sonunda mesele onların ne olduğu kadar, hatta ondan da önce, bizim onların karşısında ne olmaya çalıştığımızdır.
 
-**2. Bölüm**
-
-**Güzellik ve Çirkinlik**
+# 2. Bölüm: Güzellik ve Çirkinlik
 
 İnsanlar güzelliği çok konuşur, ama çoğu zaman neyi kastettiklerini pek bilmez. Kimi güzel deyince düzgün bir yüzü anlar, kimi parlak kumaşı, kimi sağlam bir evi, kimi düzgün konuşanı, kimi de kendisine hoş gelen şeyi. Aynı şekilde çirkinlik de çoğu kişinin dilinde kolayca dolaşır; yamuk olana, kirli olana, yaşlı olana, yabancı olana, korkutucu olana hemen çirkin denir. Oysa bunların çoğu insan gözünün verdiği acele hükümlerdir. Bir dağ, yüzü pürüzsüz olmadığı için çirkin değildir. Yaşlı bir el, kırışık olduğu için değersiz değildir. Savaşta yara almış bir yüz, ilk bakışta sert görünebilir; ama o yüzde sadakat, emek ve acı varsa, nice süslü çehreden daha temizdir. Bu yüzden önce şunu bilmek gerekir: İnsanlar arasındaki güzellik ve çirkinlik çoğu zaman görecelidir. Göz alışır, gönül kayar, heves değişir. Bugün beğenilen yarın küçümsenebilir. Bu meselede insan hükmü çok güvenilir değildir.
 
-Peki tanrılar katında güzellik ve çirkinlik nasıl anlaşılır? Orada bu kavramlar yüzle, suretLE ya da görünüşle ölçülmez. Tanrılar katında güzel olan, insanı kendinden daha aşağı bir şeye dönüştürmeyen, ölçüyü koruyandır; başkasını yalnızca araç saymayan, ruhu kirletmeyen, gücü hizmetten ayırmayan şeydir. Çirkin olan ise, ne kadar parıltılı görünürse görünsün, doğru olanı eğip büken, temiz olanı kirleten, güzel olanı kendine hizmet ettirmek için çürütendir. Bir şeyi yalnızca karanlık yaptığı için kötü sanmak saflıktır; çünkü gece de gereklidir, yas da gereklidir, sertlik de bazen gereklidir. Fakat bir şeyin özü bozulmuşsa, işte orada gerçek çirkinlik başlar. Bu bozulma insanın kalbinde, evin düzeninde, şehrin yasasında, duanın niyetinde ya da ölümün kapısında görülebilir.
+Peki tanrılar katında güzellik ve çirkinlik nasıl anlaşılır? Orada bu kavramlar yüzle, suretle ya da görünüşle ölçülmez. Tanrılar katında güzel olan, insanı kendinden daha aşağı bir şeye dönüştürmeyen, ölçüyü koruyandır; başkasını yalnızca araç saymayan, ruhu kirletmeyen, gücü hizmetten ayırmayan şeydir. Çirkin olan ise, ne kadar parıltılı görünürse görünsün, doğru olanı eğip büken, temiz olanı kirleten, güzel olanı kendine hizmet ettirmek için çürütendir. Bir şeyi yalnızca karanlık yaptığı için kötü sanmak saflıktır; çünkü gece de gereklidir, yas da gereklidir, sertlik de bazen gereklidir. Fakat bir şeyin özü bozulmuşsa, işte orada gerçek çirkinlik başlar. Bu bozulma insanın kalbinde, evin düzeninde, şehrin yasasında, duanın niyetinde ya da ölümün kapısında görülebilir.
 
 Bu yüzden cehennemin çirkinliği yalnız ateşinden, karanlığından ya da korkunç hikâyelerinden gelmez. Cehennemi gerçekten çirkin yapan, temsil ettiği değerlerin eğrilmesidir. Orada güç, hizmet etmek için değil ezmek için istenir. Orada sadakat, hakikate değil korkuya bağlanır. Orada güzellik, ruhu yüceltmek yerine kişiyi kendine tutsak eder. Orada bilgi, hikmet olsun diye değil üstün gelmek, aldatmak ve başkasını küçük düşürmek için aranır. Orada adalet, denge sağlasın diye değil intikamın tadı uzasın diye eğrilir. Orada irade, insanı diri tutsun diye değil diz çöktürsün diye kullanılır. İşte asıl çirkinlik budur. Çirkinlik, suretin bozulmasından önce maksadın bozulmasıdır.
 
@@ -98,9 +88,7 @@ Bu yüzden size son bir öğüt vereyim: Çirkinlikten yalnız gözünüzü sak�
 
 Güzellik ile çirkinlik arasındaki asıl ayrım da burada yatar. Güzel olan, insanı kendinden daha aşağı bir şeye dönüştürmeyendir. Güzel olan, ölçüyü koruyandır. Güzel olan, başkasını yalnız araç saymayan, ruhu kirletmeyen, gücü hizmetten ayırmayan şeydir. Çirkin olan ise ne kadar parıltılı görünürse görünsün, sonunda insanı küçültür. Ve insan küçüldüğünde, yüzü ne kadar düzgün olursa olsun, ruhu çirkinleşmiş demektir.
 
-**3. Bölüm**
-
-**Harekete Geç**
+# 3. Bölüm: Harekete Geç
 
 Şimdiye kadar tanrıların ne olduğundan, ne olmadığından, hangi yolların insanı yükselttiğinden ve hangi yolların ruhu çürüttüğünden söz ettim. Bunu yalnızca bilinsin diye yazmadım. Bilmek, tek başına insanı kurtarmaz. Doğruyu duymak başka şeydir, ona göre yaşamak başka şey. Nice insan vardır ki iyi sözü işitir, başını sallar, "Doğrudur" der; sonra evine döner ve eski gevşekliğine, eski korkusuna, eski bahanesine geri döner. Böyle bilgi fayda vermez. Fayda veren bilgi, insanı yerinden kaldıran bilgidir.
 
@@ -122,32 +110,32 @@ Okura burada bir başka öğüt daha vermeliyim: Harekete geçmek demek her kavg
 
 Şimdi bu bölümün sonuna gelirken, sözümü dua ile bağlamak isterim. Çünkü insan ne kadar konuşursa konuşsun, bir yerde sözünü bırakıp başını eğmesini de bilmelidir. Fakat bu duayı ederken herkes şunu hatırlasın: Dua, yapılması gerekenin yerine geçmez. Dua, yön verir; tembelliğe kılıf olmaz. Diz çöken el, vakti gelince iş de tutmalıdır.
 
-**Dua**
+## Dua
 
-*Âlemlerin düzenini gözeten yüce kudretlere hamd olsun. Sonunda iyilik, doğru yolda sebat edenlerindir. Bozulma ve yıkım ise zulmü sevenlerin payıdır.*
+> Âlemlerin düzenini gözeten yüce kudretlere hamd olsun. Sonunda iyilik, doğru yolda sebat edenlerindir. Bozulma ve yıkım ise zulmü sevenlerin payıdır.
 
-*Ey Amarath, aklın ve düzenin koruyucusu, bizi dağınıklıktan kurtar. Bize doğru hüküm vermeyi, yerinde konuşmayı, ölçülü davranmayı ve yük almaktan kaçmamayı öğret. Evlerimizi düzensizlikten, kalplerimizi başıboşluktan koru.*
+> Ey Amarath, aklın ve düzenin koruyucusu, bizi dağınıklıktan kurtar. Bize doğru hüküm vermeyi, yerinde konuşmayı, ölçülü davranmayı ve yük almaktan kaçmamayı öğret. Evlerimizi düzensizlikten, kalplerimizi başıboşluktan koru.
 
-*Ey Alarath, merhametin ve koruyucu sevginin sahibi, bize yumuşaklık ver; fakat zayıflık verme. Kalplerimize şefkat koy; fakat gevşeklik koyma. Hasta başında sabır, çocuk başında hikmet, yoksul karşısında cömertlik, kırgınlık içinde de bağışlama gücü ver.*
+> Ey Alarath, merhametin ve koruyucu sevginin sahibi, bize yumuşaklık ver; fakat zayıflık verme. Kalplerimize şefkat koy; fakat gevşeklik koyma. Hasta başında sabır, çocuk başında hikmet, yoksul karşısında cömertlik, kırgınlık içinde de bağışlama gücü ver.
 
-*Ey Vulkan, sertliğin altında şefkati saklayan büyük koruyucu, ellerimizi işe, omuzlarımızı yüke, yüreğimizi sadakate alıştır. Güç verdiğinde onu ezmek için değil korumak için kullandır. Bize sağlamlık ver, ama taş kalplilik verme.*
+> Ey Vulkan, sertliğin altında şefkati saklayan büyük koruyucu, ellerimizi işe, omuzlarımızı yüke, yüreğimizi sadakate alıştır. Güç verdiğinde onu ezmek için değil korumak için kullandır. Bize sağlamlık ver, ama taş kalplilik verme.
 
-*Ey Gulliman, ortak iyiliği kendi iyiliğinin önüne koyan bilge önder, bize düşünmeden koşmamayı, hesap etmeden hüküm vermemeyi, yalnız bugünü değil yarını da gözetmeyi öğret. Bizi bencil akıldan koru; bize topluluğun hayrını düşünen temiz akıl ver.*
+> Ey Gulliman, ortak iyiliği kendi iyiliğinin önüne koyan bilge önder, bize düşünmeden koşmamayı, hesap etmeden hüküm vermemeyi, yalnız bugünü değil yarını da gözetmeyi öğret. Bizi bencil akıldan koru; bize topluluğun hayrını düşünen temiz akıl ver.
 
-*Ey Russ, hedefe kilitlenen, iz süren ve emeği boşa bırakmayan sadık avcı, bize sabır ver, dikkat ver, sebat ver. Bizi dağınık heveslerden kurtar. Bize doğru hedefi göster ve o hedef uğruna yılmadan çalışmayı nasip et.*
+> Ey Russ, hedefe kilitlenen, iz süren ve emeği boşa bırakmayan sadık avcı, bize sabır ver, dikkat ver, sebat ver. Bizi dağınık heveslerden kurtar. Bize doğru hedefi göster ve o hedef uğruna yılmadan çalışmayı nasip et.
 
-*Ey Khan, özgür ruhlu ve bedeli ödemekten çekinmeyen yiğit, bize seni hatırlatacak bir cesaret ver. Hesabı bir kenara bırakıp doğru için öne çıkmayı, özgürlüğü yalnız kendimiz için değil etrafımızdaki insanlar için de aramayı öğret. Gerektiğinde kendi payımızdan vazgeçmeyi, başkasının ayakta kalması için adım atmayı nasip et.*
+> Ey Khan, özgür ruhlu ve bedeli ödemekten çekinmeyen yiğit, bize seni hatırlatacak bir cesaret ver. Hesabı bir kenara bırakıp doğru için öne çıkmayı, özgürlüğü yalnız kendimiz için değil etrafımızdaki insanlar için de aramayı öğret. Gerektiğinde kendi payımızdan vazgeçmeyi, başkasının ayakta kalması için adım atmayı nasip et.
 
-*Bizim için kendini feda eden Sanguinus'un hatırı için bize cesaret ver. Onun temiz yüreği ve yüksek fedakârlığı hürmetine, korktuğumuz yerde bizi ayakta tut. Öfkeye teslim olmadan güçlü kalmayı, yara alsak da doğru tarafta durmayı bize öğret.*
+> Bizim için kendini feda eden Sanguinus'un hatırı için bize cesaret ver. Onun temiz yüreği ve yüksek fedakârlığı hürmetine, korktuğumuz yerde bizi ayakta tut. Öfkeye teslim olmadan güçlü kalmayı, yara alsak da doğru tarafta durmayı bize öğret.
 
-*Ey yüce düzenin koruyucuları, kusurlarımızı örtün, ama kusurlarımızı bize sevdirip bırakmayın. Bize tövbe edecek açıklık, düzelecek irade, yeniden başlayacak güç ver. Hastalarımıza şifa, yaslılarımıza sabır, çalışanlarımıza bereket, çocuklarımıza temiz bir yol, yaşlılarımıza huzur ver.*
+> Ey yüce düzenin koruyucuları, kusurlarımızı örtün, ama kusurlarımızı bize sevdirip bırakmayın. Bize tövbe edecek açıklık, düzelecek irade, yeniden başlayacak güç ver. Hastalarımıza şifa, yaslılarımıza sabır, çalışanlarımıza bereket, çocuklarımıza temiz bir yol, yaşlılarımıza huzur ver.
 
-*Evlerimizi fitneden koru. Sofralarımızı haramdan koru. Dilimizi yalandan, elimizi zulümden, gönlümüzü kinden, aklımızı kibirden koru. Öfkemizi ölçülü, sevgimizi temiz, sadakatimizi sağlam kıl. Bizden sonra gelecek olanları da bizim eksikliklerimizin yükü altında bırakma.*
+> Evlerimizi fitneden koru. Sofralarımızı haramdan koru. Dilimizi yalandan, elimizi zulümden, gönlümüzü kinden, aklımızı kibirden koru. Öfkemizi ölçülü, sevgimizi temiz, sadakatimizi sağlam kıl. Bizden sonra gelecek olanları da bizim eksikliklerimizin yükü altında bırakma.
 
-*Ölülerimizin yolunu açık eyle. Yaşayanlarımızın adımlarını sağlam eyle. Bize yalnız istemeyi değil, istemekten sonra çalışmayı da nasip et. Bizi korkudan donanlardan değil, korksa da doğru olanı yapanlardan eyle.*
+> Ölülerimizin yolunu açık eyle. Yaşayanlarımızın adımlarını sağlam eyle. Bize yalnız istemeyi değil, istemekten sonra çalışmayı da nasip et. Bizi korkudan donanlardan değil, korksa da doğru olanı yapanlardan eyle.
 
-*Ey Amarath, ey Alarath, ey Vulkan, ey Gulliman, ey Russ, ey Khan; dualarımızı işitin. Eğer sözümüzde eğrilik varsa düzeltin, niyetimizde bozukluk varsa arıtın, irademizde zayıflık varsa güçlendirin. Bizleri yalnız sözle değil, amelle de doğru yolda yürüyen kullardan eyleyin.*
+> Ey Amarath, ey Alarath, ey Vulkan, ey Gulliman, ey Russ, ey Khan; dualarımızı işitin. Eğer sözümüzde eğrilik varsa düzeltin, niyetimizde bozukluk varsa arıtın, irademizde zayıflık varsa güçlendirin. Bizleri yalnız sözle değil, amelle de doğru yolda yürüyen kullardan eyleyin.
 
-*Sonunda bizi utançla değil onurla, dağınıklıkla değil düzenle, sertlikle değil hikmetle, boş hevesle değil sadakatle anılan insanlardan eyleyin. Çünkü insanın gerçek değeri, neyi bildiği kadar ne uğruna yaşadığıyla da ölçülür.*
+> Sonunda bizi utançla değil onurla, dağınıklıkla değil düzenle, sertlikle değil hikmetle, boş hevesle değil sadakatle anılan insanlardan eyleyin. Çünkü insanın gerçek değeri, neyi bildiği kadar ne uğruna yaşadığıyla da ölçülür.
 
 **Amin.**

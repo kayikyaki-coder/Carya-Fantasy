@@ -1,4 +1,4 @@
-# **İKİNCİ KISIM: KUMAR GECESİ**
+# İkinci Kısım: Kumar Gecesi
 
 Bir kumar gecesini doğru anlatmak için sabahından başlamak gerekir.
 
