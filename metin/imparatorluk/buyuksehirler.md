@@ -40,7 +40,7 @@ Venture, Florentina’nın güneyinde yer alır ve İmparatorluk içinde “fır
 
 Ticaret yollarının kesişiminde bulunan Venture’da ekonomik hareketlilik yüksektir. Bir tüccarın kısa sürede servet kazanması ya da her şeyini kaybetmesi olağan kabul edilir. Bu nedenle şehir halkı ekonomik risklerle yaşamaya alışkındır.
 
-İmparatorluk Bankası’nın merkezi Venture’dadır; banka devletin hazinesini ve ordu ödemelerini yürütür, başındaki büyük ortak ise Venture hanedanıdır. Tüccarların bağımsız birliği olan Altın Terazi Sendikası ise bankadan ayrı bir güçtür. Bu durum, şehri yalnızca ticaretin değil, finansal sistemin de kalbi hâline getirir. Yönetimde soylu ailelerin yanı sıra uzun yıllar ticarette başarı sağlamış zengin tüccarlar da söz sahibidir. Servetlerini kuşaklar boyunca koruyabilenler, zamanla soylu sınıfa dâhil olabilir.
+İmparatorluk Bankası’nın merkezi Venture’dadır; banka devletin hazinesini ve ordu ödemelerini yürütür, başındaki büyük ortak ise Venture hanedanıdır. Vergiler Florentina’ya gitse de soylular servetlerinin bir kısmını, tüccarlar ise büyük bölümünü bu bankada tutar; bankayı Venture ailesi, şehrin diğer soyluları ve onların piyonları yönetir. Tüccarların bağımsız birliği olan Altın Terazi Sendikası ise bankadan ayrı bir güçtür. Bu durum, şehri yalnızca ticaretin değil, finansal sistemin de kalbi hâline getirir. Yönetimde soylu ailelerin yanı sıra uzun yıllar ticarette başarı sağlamış zengin tüccarlar da söz sahibidir. Servetlerini kuşaklar boyunca koruyabilenler, zamanla soylu sınıfa dâhil olabilir.
 
 “Diyardaki altının yarısı bu şehirde bulunur” sözü, Venture’un ekonomik gücünü yansıtan yaygın bir ifadedir. Rekabet ve entrika şehir yaşamının olağan parçalarıdır; buna karşın dış tehditler karşısında halk genellikle birlik içinde hareket eder. Şehir nüfusunun büyük bölümü için bağlılık, siyasi değil ekonomik temellidir.
 
@@ -52,7 +52,7 @@ Venture’da farklı ırk ve cinsiyetlere, İmparatorluk sınırları içinde e�
 
 Arcan’s Gate’in kökeni, Yükseliş’ten önceki dönemlere uzanır. Şehrin temeli, Koran adlı bir büyücünün inşa ettirdiği kule etrafında atılmıştır. Koran güçlü bir büyücüydü ama soylu değildi; krallıkta yükselmiş ve Arcan hanesinden biriyle evlenmiş, kan bağı olmasa da bu hanenin bir parçası sayılmıştır. Bu evlilikten resmî bir çocuğu kayıtlı değildir. Boş bir arazide kurduğu büyücü kulesi, o ilerleyen yıllarda tanrılar arasındaki bir olayda yükselip tanrı katına çıkana kadar da büyümeye devam etmiştir. Kule zamanla bir eğitim ve araştırma merkezine, sonunda diyarın en büyük büyücü akademisine dönüşmüştür (elfler kendi büyücü okullarının hâlâ daha büyük olduğunu söyler). Kule doğal bir cazibe merkezi olduğundan çevresinde büyü temelli bir yerleşim gelişmiş ve bu yerleşim zamanla şehre dönüşmüştür.
 
-Kule bugün resmî bir büyü okuludur ve özellikle zahiriye alanında uzmanlaşmış büyücüler yetiştirir. Mezunlar, hem akademik çalışmalar yürütür hem de sihirli nesnelerin üretimi ve ticaretiyle uğraşır.
+Kule bugün Archantus Büyücü Okulu adıyla anılan resmî bir büyü okuludur ve özellikle zahiriye alanında uzmanlaşmış büyücüler yetiştirir. Mezunlar, hem akademik çalışmalar yürütür hem de sihirli nesnelerin üretimi ve ticaretiyle uğraşır.
 
 Şehir yönetimi, soylular ile büyücülerin birlikte söz sahibi olduğu karma bir yapıya sahiptir. Bu nedenle Arcan’s Gate, İmparatorluk içindeki nadir Mageocracy örneklerinden biri olarak kabul edilir. Bu hassas yapı, şehrin uzun süredir İmparatorluk tarafından yakından denetlenmesine yol açmıştır.
 
