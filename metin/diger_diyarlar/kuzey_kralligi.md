@@ -2,7 +2,7 @@
 
 ## Genel Yapı
 
-Kuzeyde dört şehir, bir kral ve üç yarl vardır: Berserkhold, Frostreach, Kaldurvik ve Jökulgard. Berserkhold başkenttir ve goliathların şehridir; kralın meşruiyeti de oradaki Greatwolf tapınağına dayanır. Yarllar kendi şehirlerinde seçilir; kral seçimi yalnızca onaylar. Kuzeyin dört şehri de bugün bilinenlerden çok daha eski yapıların üzerine kuruludur; Berserkhold antik bir kentin üstünde yükselir.
+Kuzeyde dört şehir, bir kral ve üç yarl vardır: Berserkhold, Frostreach, Kaldurvik ve Jökulgard. Berserkhold başkenttir ve goliathların şehridir; kralın meşruiyeti de oradaki Greatwolf tapınağına dayanır. Yarl seçimi şehirden şehre değişir; kral çoğunlukla seçimi yalnızca onaylar. Kuzeyin dört şehri de bugün bilinenlerden çok daha eski yapıların üzerine kuruludur; Berserkhold antik bir kentin üstünde yükselir.
 
 ## Berserkhold
 
