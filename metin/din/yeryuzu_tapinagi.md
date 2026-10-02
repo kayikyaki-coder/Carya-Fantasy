@@ -10,9 +10,9 @@ Bu yüzden bu kitabı yazdım. Burada tapınağın inancını, görevlilerinin y
 
 İnancımız Yeryüzü İnancı adıyla bilinir; merkezi ve en yüce müessesesi Yeryüzü Tapınağı’dır. Bu inanç, başta düzenin babası Amarath ile şefkatin anası Alarath olmak üzere, onların sadık evlatlarına bağlılık üzerine kuruludur.
 
-Vaktiyle Amarath ile Alarath on iki çocuk yaratmıştı. Büyük muharebelerin ve Horus İsyanı’nın akabinde bunların ekserisi ya düştü ya da Kaos’a savruldu. Bugün inancımızın merkezinde beş kutsal isim durur: baba Amarath, ana Alarath ve üç sadık oğul — Russ, Gulliman ve Vulkan. Onlara niyaz edilir, onların yolunda yürünür.
+Vaktiyle Amarath ile Alarath on çocuk yaratmıştı. Büyük muharebelerin ve Horus İsyanı’nın akabinde bunların ekserisi ya düştü ya da Kaos’a savruldu. Bugün inancımızın merkezinde beş kutsal isim durur: baba Amarath, ana Alarath ve üç sadık oğul — Russ, Gulliman ve Vulkan. Onlara niyaz edilir, onların yolunda yürünür.
 
-İki isim daha vardır ki onlara niyaz edilmez, lakin hatıraları mukaddestir: Sanguinus ve Khan. İkisi de Horus İsyanı’nda kendini feda ederek can vermiştir. Bugün onlar şehitlerin başında anılır. Sanguinus, Horus’un göğsünde babanın sonradan ölümcül darbeyi indireceği yarayı açtı. Khan ise kendini feda ederek dört cehennem lordunu bir anda müdafaasız bıraktı ve muharebenin muvazenesini kırdı. Onları yalnızca anar, fedakârlıklarını yâd ederiz.
+İki isim daha vardır ki onlara niyaz edilmez, lakin hatıraları mukaddestir: Sanguinus ve Khan. İkisi de Horus İsyanı’nda kendini feda ederek can vermiştir. Bugün onlar şehitlerin başında anılır. Sanguinus, Horus’un göğsünde babanın sonradan ölümcül darbeyi indireceği yarayı açtı. Khan ise kendini feda ederek dört cehennem lordunu bir anda müdafaasız bıraktı ve muharebenin muvazenesini kırdı. Onları yalnızca anar, fedakârlıklarını yâd ederiz. Gerçi halk arasında, bilhassa kırda ve küçük kasabalarda, bu iki şehide de seslenildiği görülür; tapınak bunu hoş görmez, lakin men de edemez.
 
 ## Işık Yolcuları
 

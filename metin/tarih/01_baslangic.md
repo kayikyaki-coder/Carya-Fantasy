@@ -1,6 +1,6 @@
 # Başlangıç
 
-Başlangıçta üç vardı: Rahsan, Chuntea ve Rakash. Ruhlar Nehri'nin bir yerinde durdular ve birbirlerine baktılar. Chuntea sordu: "Nasıl olacak?" Rahsan sordu: "Nasıl sürecek?" Rakash en son sordu: "Nasıl bitecek?" Kimse cevap vermedi. Ama üçü de biliyordu: cevap, yapılacak şeyin içinde saklıydı.
+Başlangıçta üç vardı: Rahsan, Chuntea ve Rakash. Ruhlar Nehri'nin bir yerinde durdular ve birbirlerine baktılar. Rahsan sordu: "Nasıl olacak?" Chuntea sordu: "Nasıl sürecek?" Rakash en son sordu: "Nasıl bitecek?" Kimse cevap vermedi. Ama üçü de biliyordu: cevap, yapılacak şeyin içinde saklıydı.
 
 Önce Carya'yı yarattılar; yuvarlak, kapalı, kendi içinde tam. Sonra önüne Güneş'i koydular ki aydınlansın. Ardından Chuntea, Ay'ı yerleştirdi ki güzel görünsün. Ve her büyük cismin içinde, zamanla, bir ruh uyandı: Güneş'te Solana, Ay'da Lunara, Carya'nın kalbinde Viridia. Durak hazırdı. Nehir akıyordu.
 

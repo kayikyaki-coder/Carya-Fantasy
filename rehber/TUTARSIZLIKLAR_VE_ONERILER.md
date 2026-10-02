@@ -12,6 +12,13 @@ Okuma notları:
 
 # Bölüm 1: Tutarsızlıklar
 
+## Çözülenler
+
+- **Çocuk sayısı:** Amarath ve Alarath'ın çocukları her yerde *on*. Yeryüzü Tapınağı kitabındaki "on iki" düzeltildi.
+- **Sanguinus ve Khan:** Resmî öğreti aynı kaldı (onlara niyaz edilmez). Yeryüzü Tapınağı kitabına, halkın bu iki şehide yine de seslendiğini ve tapınağın bunu hoş görmediğini ama engelleyemediğini söyleyen bir cümle eklendi. Benton'un duası ve hikâyedeki Sanguinus rahibi artık bu halk geleneği olarak okunur.
+- **Rahsan ve Chuntea:** Tarihin ilk bölümünde sorular yer değiştirdi: Rahsan "Nasıl olacak?", Chuntea "Nasıl sürecek?" der. Tanrı cetveli ve Benton'la tutarlı.
+- **Cevapsız dualar (bilinçli tutarsızlık):** Tarih metnine göre Amarath çok zayıf ve Alarath dualara büyük ölçüde cevap veremiyor, ama tapınak ve Benton hâlâ onlara dua ediyor. Yazar kararıyla olduğu gibi bırakıldı; inananlar bu zayıflamadan habersiz sayılır.
+
 ## Özet Tablo
 
 | No | Önem | Konu | Dosyalar |
