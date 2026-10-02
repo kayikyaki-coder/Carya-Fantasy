@@ -1,0 +1,13 @@
+{
+  "cikti_klasoru": "docx",
+  "belgeler": [
+    {"dosya": "Carya_Tarih.docx", "baslik": "CARYA TARİHİ", "altbaslik": "Başlangıçtan Arcan’ın Yükselişine", "yazar": "", "not": "", "metinler": ["tarih/01_baslangic.md","tarih/02_ates_savasi.md","tarih/03_4_illet.md","tarih/04_kaos_savasi.md","tarih/05_horusun_isyani.md","tarih/06_arcanin_yukselisi.md","tarih/07_tanrilar_cetveli.md"]},
+    {"dosya": "Carya_Imparatorluk.docx", "baslik": "İMPARATORLUK", "altbaslik": "Büyükşehirler, Kasabalar ve Soylu Aileler", "yazar": "", "not": "", "metinler": ["imparatorluk/buyuksehirler.md","imparatorluk/kasabalar.md","imparatorluk/soylu_aileler.md"]},
+    {"dosya": "Carya_Diger_Diyarlar.docx", "baslik": "DİĞER DİYARLAR", "altbaslik": "Elf Federasyonu, Cüce Krallığı, Kuzey Krallığı ve Özgür Şehirler", "yazar": "", "not": "", "metinler": ["diger_diyarlar/elf_federasyonu.md","diger_diyarlar/cuce_kralligi.md","diger_diyarlar/kuzey_kralligi.md","diger_diyarlar/ozgur_sehirler.md"]},
+    {"dosya": "Carya_Gruplar_ve_Tarikatlar.docx", "baslik": "GRUPLAR VE TARİKATLAR", "altbaslik": "Diyarın başlıca birlikleri, loncaları ve tarikatları", "yazar": "", "not": "", "metinler": ["gruplar.md"]},
+    {"dosya": "Yeryuzu_Tapinagi.docx", "baslik": "YERYÜZÜ TAPINAĞI", "altbaslik": "Düzenin, Yolların ve Görevlilerin Kitabı", "yazar": "Yedinci Yüce Baş Rahip Jadath tarafından", "not": "halkın ve görevlilerin malumatı için kaleme alınmıştır", "metinler": ["din/yeryuzu_tapinagi.md"]},
+    {"dosya": "Tiamat_Dua_Kitabi.docx", "baslik": "TİAMAT’IN DUA KİTABI", "altbaslik": "İntikam ve Hak Üzerine", "yazar": "", "not": "", "metinler": ["din/tiamat_dua_kitabi.md"]},
+    {"dosya": "Benton_Dua_Kitabi.docx", "baslik": "DUA KİTABI", "altbaslik": "Rahip Benton’un", "yazar": "", "not": "Halkın Kullanımı İçin Kaleme Alınmıştır", "metinler": ["din/benton_dua_kitabi.md"]},
+    {"dosya": "Edunun_Kitabi.docx", "baslik": "EDU’NUN KİTABI", "altbaslik": "Çalışma başlığı", "yazar": "", "not": "", "metinler": ["hikaye/kisim1_terzi_cocugu.md","hikaye/kisim2_kumar_gecesi.md","hikaye/kisim3_goblinler_ve_kahramanlar.md","hikaye/kisim4_irklar_sehirler_mahluklar.md","hikaye/kisim5_bilgi_tuccarligi.md"]}
+  ]
+}
