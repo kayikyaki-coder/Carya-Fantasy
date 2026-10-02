@@ -52,7 +52,7 @@ Sustum. Şaraptan bir yudum daha aldım. Şu soruları kendime sordum: bu adam k
 
 Üçüncü gözlem: sorduğu sorular fazla spesifikti. Spesifik soru sormak, müşterinin bilgili olduğunu gösterir. Bu adam Berbat'ı zaten biliyordu. Grubun varlığını biliyordu. Bilmediği şey detaylardı. Detay isteyen müşteri, planlama yapan müşteridir. Planlama yapan müşteri, üstüne harekete geçecek müşteridir.
 
-Dördüncü gözlem: adam bana bunu sormaya gelene kadar başka kim bilir bunu, bilmiyorum, ama her halükârda Florentina'da imparatorluğa bağlı bir takım var, ki onlar bu tür gruplar üzerine çalışır. Buna *Saray Kuşları* denir bazı kuğularda, asla kendileri kullanmaz bu adı. Kuşlar şehirde dolaşır, dinler, not eder, raporlar yazar. Kuşların doğrudan kimseyi tutuklama yetkisi yoktur, ama haberleri başkalarına geçirir, başkaları harekete geçer.
+Dördüncü gözlem: adam bana bunu sormaya gelene kadar başka kim bilir bunu, bilmiyorum, ama her halükârda Florentina'da imparatorluğa bağlı bir takım var, ki onlar bu tür gruplar üzerine çalışır. Buna *Saray Kuşları* denir bazı çevrelerde, asla kendileri kullanmaz bu adı. Kuşlar şehirde dolaşır, dinler, not eder, raporlar yazar. Kuşların doğrudan kimseyi tutuklama yetkisi yoktur, ama haberleri başkalarına geçirir, başkaları harekete geçer.
 
 Beşinci gözlem ve en önemlisi: eğer bu adam bir kuş ise, ona bilgi vermek beni doğrudan tehlikeye sokmaz. Çünkü kuş bilgi taşır, kaynağı korur. Kaynak korunmazsa, başka kaynak bulamazlar. Kuş sistemine güvenmem ama bu temel kuralı bilirim. Eğer bu adam bir Berbat rakibi ise, durum farklı. Bu durumda bir gangster savaşına alet olurum. İki gangster grubu arasında bilgi taşıyan adam, sonunda iki tarafın da düşmanı olur.
 

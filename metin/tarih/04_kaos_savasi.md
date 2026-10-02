@@ -1,6 +1,6 @@
 # Kaos Savaşı
 
-Rahsan'ın ölümü Carya'yı yalnızca bir tanrıdan yoksun bırakmadı; onu kurucusuz bıraktı. İlk izni veren, ilk anlaşmayı yapan, kapıyı açan ya da kapatan el artık yoktu. O günden sonra Carya, Ruhlar Nehri üzerindeki durakların en cazibesi haline geldi. Nehirde yeni bir durak aramak, boş kalmış bir tahta oturmaktan çok daha zahmetliydi. Bundan sonraki bütün savaşların altında hep aynı soru yattı: Rahsan'ın yerinde kim duracak?
+Rahsan'ın ölümü Carya'yı yalnızca bir tanrıdan yoksun bırakmadı; onu kurucusuz bıraktı. İlk izni veren, ilk anlaşmayı yapan, kapıyı açan ya da kapatan el artık yoktu. O günden sonra Carya, Ruhlar Nehri üzerindeki durakların en cazibelisi haline geldi. Nehirde yeni bir durak aramak, boş kalmış bir tahta oturmaktan çok daha zahmetliydi. Bundan sonraki bütün savaşların altında hep aynı soru yattı: Rahsan'ın yerinde kim duracak?
 
 Ancak savaş açıkça başlamadan önce çok şey hazırlanmıştı. Kaos tanrıları müttefik aradı, zaafları yokladı ve herkesin kalbine ayrı bir vaat sundu. Loth'a, Isha'yı öldürmesi karşılığında yeryüzündeki işlerine karışmayacaklarını söylediler. Likan'a, yanlarında savaşırsa çocuk yaratma kudretini geri vereceklerini vadettiler. Vilgax'a, değerli bir şey getirirse varlığını herkesten gizleyeceklerini söylediler. Abbator'a ise Morad'ın yerine geçme sözü verdiler. Böylece Isha öldürüldü; Likan ile Abbator da Kaos'un tarafına geçti.
 

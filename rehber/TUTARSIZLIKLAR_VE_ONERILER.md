@@ -35,6 +35,7 @@ Okuma notları:
 - **Kırık Kalkanlar (T13):** Düzenli ordulardan tasfiye edilmiş askerler ve büyük maceracı grupları; küçük grupları birleştirir, ücretle kiralar. İmparator, lord ya da başka krallıktan zengin biri tamamını veya bir kısmını kiralayabilir.
 - **Karga isyanı (T21, kalan):** Çok yeni bir olay; sonraya bırakıldı.
 - **Corvus ve De Santis/La Cruix (T24):** De Santis ve La Cruix Florentin'in kral ilanında ona ilk biat eden eski soylu haneler; Corvus bundan sonra, soylu olmadan, sade hizmetle bağlılığını ilan eden ilk hane.
+- **Tekrarlar ve yazım hataları (T25):** tarih/06'daki Praxaclass ve "tanrı gücünü ağdan almaz" tekrarları kısaltıldı (asıl anlatım tarih/01 ve tarih/02'de kaldı); "en cazibesi" → "en cazibelisi"; "kuğularda" → "çevrelerde" (yazarın asıl kelimesi başka olabilir); "erzak ve erzak güvenliğini" → "gıda ve erzak güvenliğini"; "4 İllet" terimi tarih/03'e bir cümleyle bağlandı; soylu_aileler.md'deki karışık tırnak/kesme işaretleri tek biçime getirildi.
 - **Cevapsız dualar (bilinçli tutarsızlık):** Tarih metnine göre Amarath çok zayıf ve Alarath dualara büyük ölçüde cevap veremiyor, ama tapınak ve Benton hâlâ onlara dua ediyor. Yazar kararıyla olduğu gibi bırakıldı; inananlar bu zayıflamadan habersiz sayılır.
 
 ## Özet Tablo

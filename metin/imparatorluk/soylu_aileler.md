@@ -142,7 +142,7 @@ Tarih yazıcılığında Arcan’s Gate ile yarışacak kadar güçlü bir gelen
 
 ![Blackfish](../gorseller/media/image5.png)
 
-Venture’daki Blackship ailesiyle aynı kökten gelen Blackfish hanesi, ailenin kendi köklerine sadık kalan koludur ve Aquamere’de kalmıştır. Kökleri denizlerin tekinsiz sularında terör estiren eski korsanlara dayanır; soyluluğu bir lütuf değil, savaş meydanında kopardıkları bir hak olarak görür. Zamanında kralı mutlak bir ölümden kurtardıkları için soyluluk unvanı almışlardır; bu nedenle şehirdeki "geleneksel" soylular tarafından sürekli hor görülürler. Saray adabından uzak, ağzı bozuk ve özgürlükçüdürler. Denizin kuralsız ruhunu taşıyan bu hane, diplomasi masasından çok fırtınalı bir denizde savaşmayı tercih eder.
+Venture’daki Blackship ailesiyle aynı kökten gelen Blackfish hanesi, ailenin kendi köklerine sadık kalan koludur ve Aquamere’de kalmıştır. Kökleri denizlerin tekinsiz sularında terör estiren eski korsanlara dayanır; soyluluğu bir lütuf değil, savaş meydanında kopardıkları bir hak olarak görür. Zamanında kralı mutlak bir ölümden kurtardıkları için soyluluk unvanı almışlardır; bu nedenle şehirdeki “geleneksel” soylular tarafından sürekli hor görülürler. Saray adabından uzak, ağzı bozuk ve özgürlükçüdürler. Denizin kuralsız ruhunu taşıyan bu hane, diplomasi masasından çok fırtınalı bir denizde savaşmayı tercih eder.
 
 ### Harborly
 
@@ -154,7 +154,7 @@ Blackfish ailesinin aksine Harborly hanesi, denizi bir savaş alanı değil, uç
 
 ![Dos Valen](../gorseller/media/image25.png)
 
-Aquamere şehrinin denize dönük yüzünün aksine, toprağa basan ayaklarıdır. Şehri çevreleyen kasabalarda devasa tarım arazilerini yönetir, Aquamere'in erzak ve erzak güvenliğini sağlarlar. İhtiraslı deniz maceralarından uzak duran bu aile, daha çok şehrin sıkıcı ama hayati olan bürokratik işleriyle ilgilenir. Aquamere hanesinin en büyük destekçisi konumundadırlar; kâğıt işlerini, vergi toplamayı ve gıda dağıtımını yönettikleri için şehrin gerçek çarkları onların elinde döner.
+Aquamere şehrinin denize dönük yüzünün aksine, toprağa basan ayaklarıdır. Şehri çevreleyen kasabalarda devasa tarım arazilerini yönetir, Aquamere’in gıda ve erzak güvenliğini sağlarlar. İhtiraslı deniz maceralarından uzak duran bu aile, daha çok şehrin sıkıcı ama hayati olan bürokratik işleriyle ilgilenir. Aquamere hanesinin en büyük destekçisi konumundadırlar; kâğıt işlerini, vergi toplamayı ve gıda dağıtımını yönettikleri için şehrin gerçek çarkları onların elinde döner.
 
 ### Del Valle
 
@@ -174,7 +174,7 @@ Archantus hanesi, Koran’ın yükselmeden önce evlilik yoluyla dâhil olduğu 
 
 ![Mystra](../gorseller/media/image3.png)
 
-Tıpkı Archantus gibi soylarında yoğun bir büyüsel güç barındıran Mystra ailesi, büyüyü kitaplardan okuyarak öğrenen "büyücülerden" (wizard) ziyade, bu gücü doğuştan içgüdüsel olarak kullanan "efsunculardan" (sorcerer) oluşur. Disiplinli ve kuralcı okul hayatı onlara göre değildir. Mystralar, büyücülerin daha fazla hakka, daha geniş bir hareket alanına ve özgürlüğe sahip olması gerektiğini açıkça savunur. Kulelere kapanmak yerine diyarı karış karış gezen, rüzgârın ve serbest sihrin peşinden giden gezgin büyücüleriyle ün salmışlardır. Bağımsız ruhları, zaman zaman kuralcı Archantus hanesiyle ters düşmelerine neden olur.
+Tıpkı Archantus gibi soylarında yoğun bir büyüsel güç barındıran Mystra ailesi, büyüyü kitaplardan okuyarak öğrenen “büyücülerden” (wizard) ziyade, bu gücü doğuştan içgüdüsel olarak kullanan “efsunculardan” (sorcerer) oluşur. Disiplinli ve kuralcı okul hayatı onlara göre değildir. Mystralar, büyücülerin daha fazla hakka, daha geniş bir hareket alanına ve özgürlüğe sahip olması gerektiğini açıkça savunur. Kulelere kapanmak yerine diyarı karış karış gezen, rüzgârın ve serbest sihrin peşinden giden gezgin büyücüleriyle ün salmışlardır. Bağımsız ruhları, zaman zaman kuralcı Archantus hanesiyle ters düşmelerine neden olur.
 
 ### Lombliver
 
@@ -186,19 +186,19 @@ Lombliver ailesi, Arcan’s Gate gibi sihrin başkentinde yaşamasına rağmen b
 
 ![Annexila](../gorseller/media/image1.png)
 
-Bu hane için büyü, kibrin ya da gizemli araştırmaların bir aracı değil; doğrudan halka, topluma ve devlete hizmet etmesi gereken bir "iş aletidir." Kudretli büyücülerin dünyadan izole bir şekilde güç fantezileri kurmasına şiddetle karşı çıkarlar. Temel felsefeleri "az büyü, çok iş" üzerine kuruludur. Tarımı kolaylaştıran, hastaları iyileştiren ya da şehir altyapısını güçlendiren pratik sihirleri tercih ederler. Yönetimsel olarak Archantus ailesinin en sadık sağ kolu konumundadırlar. Şehirdeki diğer haneler onları Archantus'un "yalakaları" olarak küçümsese de, Annexila'nın tek amacı sıradan halkın yaşamını büyü yoluyla kolaylaştırmaktır.
+Bu hane için büyü, kibrin ya da gizemli araştırmaların bir aracı değil; doğrudan halka, topluma ve devlete hizmet etmesi gereken bir “iş aletidir.” Kudretli büyücülerin dünyadan izole bir şekilde güç fantezileri kurmasına şiddetle karşı çıkarlar. Temel felsefeleri “az büyü, çok iş” üzerine kuruludur. Tarımı kolaylaştıran, hastaları iyileştiren ya da şehir altyapısını güçlendiren pratik sihirleri tercih ederler. Yönetimsel olarak Archantus ailesinin en sadık sağ kolu konumundadırlar. Şehirdeki diğer haneler onları Archantus’un “yalakaları” olarak küçümsese de, Annexila’nın tek amacı sıradan halkın yaşamını büyü yoluyla kolaylaştırmaktır.
 
 ### Von Draken
 
 ![Von Draken](../gorseller/media/image19.png)
 
-Aslen Aux kökenli olan Von Draken ailesi, İmparatorluk topraklarına sonradan dâhil olmuş ancak muazzam bir hızla uyum sağlamıştır. Büyü yapmaktan ziyade, büyüyle üretilmiş nadir materyallerin, sihirli eşyaların ve tılsımların tüccarlığını yaparak devasa bir servet inşa etmişlerdir. Diğer haneler onların İmparator’a ya da Arcan's Gate’e olan sadakatini her zaman sorgular; zira her kararlarının arkasında altın yatar. Aidiyetleri şüpheli olsa da, şehrin sunduğu imkânları ticari bir imparatorluğa dönüştürme konusunda diyarda onların üzerine yoktur.
+Aslen Aux kökenli olan Von Draken ailesi, İmparatorluk topraklarına sonradan dâhil olmuş ancak muazzam bir hızla uyum sağlamıştır. Büyü yapmaktan ziyade, büyüyle üretilmiş nadir materyallerin, sihirli eşyaların ve tılsımların tüccarlığını yaparak devasa bir servet inşa etmişlerdir. Diğer haneler onların İmparator’a ya da Arcan’s Gate’e olan sadakatini her zaman sorgular; zira her kararlarının arkasında altın yatar. Aidiyetleri şüpheli olsa da, şehrin sunduğu imkânları ticari bir imparatorluğa dönüştürme konusunda diyarda onların üzerine yoktur.
 
 ### La Seraphine
 
 ![La Seraphine](../gorseller/media/image18.png)
 
-Çok eski çağlarda Aux'taki dini baskılardan ve uyumsuzluklardan kaçarak İmparatorluğa sığınan bu aile, ilk birkaç yüzyıl boyunca farklı kültürleri ve inançları nedeniyle hep dışlanmış ve sorgulanmıştır. Ancak zamanla hayatta kalma güdüsüyle radikal bir dönüşüm geçirmiş, Yeryüzü Tapınağı'nı herkesten çok benimsemiş ve bu yeni inançta sergiledikleri yobazlıkla ün salmışlardır. Günümüzde şehirdeki diğer aileler tarafından sinsi ve fazlasıyla tehlikeli bulunurlar; ancak İmparatorluk, La Seraphine hanesini bilerek orada tutar. Çünkü güç kazanmak için rakiplerinin en ufak dini ya da yasal hatasını kollayan bu aile, Arcan's Gate’in başına buyruk büyücülerini dizginleyen mükemmel bir güvenlik sübabıdır.
+Çok eski çağlarda Aux’taki dini baskılardan ve uyumsuzluklardan kaçarak İmparatorluğa sığınan bu aile, ilk birkaç yüzyıl boyunca farklı kültürleri ve inançları nedeniyle hep dışlanmış ve sorgulanmıştır. Ancak zamanla hayatta kalma güdüsüyle radikal bir dönüşüm geçirmiş, Yeryüzü Tapınağı’nı herkesten çok benimsemiş ve bu yeni inançta sergiledikleri yobazlıkla ün salmışlardır. Günümüzde şehirdeki diğer aileler tarafından sinsi ve fazlasıyla tehlikeli bulunurlar; ancak İmparatorluk, La Seraphine hanesini bilerek orada tutar. Çünkü güç kazanmak için rakiplerinin en ufak dini ya da yasal hatasını kollayan bu aile, Arcan’s Gate’in başına buyruk büyücülerini dizginleyen mükemmel bir güvenlik sübabıdır.
 
 ## Greenhall Soylu Aileleri
 
@@ -206,16 +206,16 @@ Aslen Aux kökenli olan Von Draken ailesi, İmparatorluk topraklarına sonradan 
 
 ![Greenhall](../gorseller/media/image33.png)
 
-Greenhall ailesi, İmparatorluk'un en yeni yöneticilerinden biri olmasına rağmen, kökenlerindeki Florentina ve Corvus akrabalığı sayesinde şüphe götürmez bir meşruiyete sahiptir. "Greenhall Projesi" olarak bilinen bu tehlikeli sınır yerleşiminin inşasını ve yönetimini üstlenerek şehre kendi isimlerini vermişlerdir. Kıyısı olmayan, ticaretin tehlikeli kırsaldan geçtiği ve yerel "yeşilderili" halkların şehir içinde yaşamasına müsaade edilen bu kaotik bölgeyi yönetmek devasa bir sınavdır. Mühendislik dehaları, askeri disiplinleri ve yöneticilik yetenekleriyle bu zorlu görevin altından kalkmaya çalışırlar. Diğer lordlardan toplanan vergilerin doğrudan bu projeye aktarılması onları diyardaki kıskançlıkların hedefi yapsa da, arkalarındaki Florentina kanı ve sarsılmaz imparatorluk sadakati, herkesi hizaya sokan yegâne kalkanlarıdır.
+Greenhall ailesi, İmparatorluk’un en yeni yöneticilerinden biri olmasına rağmen, kökenlerindeki Florentina ve Corvus akrabalığı sayesinde şüphe götürmez bir meşruiyete sahiptir. “Greenhall Projesi” olarak bilinen bu tehlikeli sınır yerleşiminin inşasını ve yönetimini üstlenerek şehre kendi isimlerini vermişlerdir. Kıyısı olmayan, ticaretin tehlikeli kırsaldan geçtiği ve yerel “yeşilderili” halkların şehir içinde yaşamasına müsaade edilen bu kaotik bölgeyi yönetmek devasa bir sınavdır. Mühendislik dehaları, askeri disiplinleri ve yöneticilik yetenekleriyle bu zorlu görevin altından kalkmaya çalışırlar. Diğer lordlardan toplanan vergilerin doğrudan bu projeye aktarılması onları diyardaki kıskançlıkların hedefi yapsa da, arkalarındaki Florentina kanı ve sarsılmaz imparatorluk sadakati, herkesi hizaya sokan yegâne kalkanlarıdır.
 
 ### Frontier
 
 ![Frontier](../gorseller/media/image15.png)
 
-Aslen Başkent'ten gelen ve nesiller boyu ordunun en üst kademelerinde görev yapmış katı, kuralcı ve tavizsiz bir asker ailesidir. Greenhall şehrinin askeri belkemiğini oluşturmaları için buraya bizzat yerleştirilmişlerdir. Greenhall hanesinin yeşilderililerle kurmaya çalıştığı entegrasyon politikalarına sıcak bakmazlar; onlar için sınır demek, ötekini dışarıda tutmak demektir. Hoşgörüsüz ve sert yapılarına rağmen, şehrin vahşi doğaya ve olası saldırılara karşı hayatta kalmasını sağlayan yegâne askeri güç oldukları için kimse onların üzerine gidemez.
+Aslen Başkent’ten gelen ve nesiller boyu ordunun en üst kademelerinde görev yapmış katı, kuralcı ve tavizsiz bir asker ailesidir. Greenhall şehrinin askeri belkemiğini oluşturmaları için buraya bizzat yerleştirilmişlerdir. Greenhall hanesinin yeşilderililerle kurmaya çalıştığı entegrasyon politikalarına sıcak bakmazlar; onlar için sınır demek, ötekini dışarıda tutmak demektir. Hoşgörüsüz ve sert yapılarına rağmen, şehrin vahşi doğaya ve olası saldırılara karşı hayatta kalmasını sağlayan yegâne askeri güç oldukları için kimse onların üzerine gidemez.
 
 ### Slezk
 
 ![Slezk](../gorseller/media/image26.png)
 
-Daha önce Aquamere şehrinin kozmopolit yapısında tecrübe kazanmış olan Slezk ailesi, o çok kültürlü deneyimi alıp Greenhall’un bürokratik ve dini işlerini yönetmesi için buraya gönderilmiştir. Dışarıdan bakıldığında barışçıl ve hoşgörülü bir bürokrat hanesi gibi görünürler; ancak bu yumuşak yüzeyin altında katı bir misyonerlik zihniyeti yatar. Onların nihai amacı, bölgedeki yeşilderili halkları birer araç olarak kullanmak ve onları kendi köklü inançları olan "Gork ve Morg"dan kopararak İmparatorluğun resmî inancı olan Yeryüzü İnancı’na geçirmektir. Slezklere göre bir yeşilderilinin ruhu ancak İmparatorluğun dinine biat ettiğinde kurtulabilir; bu yüzden hoşgörüleri aslında bir asimilasyon silahıdır.
+Daha önce Aquamere şehrinin kozmopolit yapısında tecrübe kazanmış olan Slezk ailesi, o çok kültürlü deneyimi alıp Greenhall’un bürokratik ve dini işlerini yönetmesi için buraya gönderilmiştir. Dışarıdan bakıldığında barışçıl ve hoşgörülü bir bürokrat hanesi gibi görünürler; ancak bu yumuşak yüzeyin altında katı bir misyonerlik zihniyeti yatar. Onların nihai amacı, bölgedeki yeşilderili halkları birer araç olarak kullanmak ve onları kendi köklü inançları olan “Gork ve Morg”dan kopararak İmparatorluğun resmî inancı olan Yeryüzü İnancı’na geçirmektir. Slezklere göre bir yeşilderilinin ruhu ancak İmparatorluğun dinine biat ettiğinde kurtulabilir; bu yüzden hoşgörüleri aslında bir asimilasyon silahıdır.
