@@ -20,7 +20,7 @@ Cüceler Morad’ın halkıdır. Morad’ın Astral boyuttan edindiği iki çır
 
 ## Yeşilderili Halklar
 
-Yeşilderili halklar Gork ile Morg’un çocuklarıdır. Orklar, goblinler ve aralarındaki karışımlar bu çatı altında anılır. Gork ile Morg çocuklarını kimseye danışmadan daha sert ve daha ayrıksı bir yola yöneltmiştir; bu yüzden onların çocukları her zaman diğerlerinden farklı olmuştur.
+Yeşilderili halklar Gork ile Morg’un çocuklarıdır. Goblinler, orklar, ogreler, gnollar, bugbearlar, aralarındaki karışımlar ve benzer bütün halklar bu çatı altında anılır. Gork ile Morg çocuklarını kimseye danışmadan daha sert ve daha ayrıksı bir yola yöneltmiştir; bu yüzden onların çocukları her zaman diğerlerinden farklı olmuştur.
 
 ## Goliathlar
 

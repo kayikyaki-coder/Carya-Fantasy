@@ -136,7 +136,7 @@ Tarih yazıcılığında Arcan’s Gate ile yarışacak kadar güçlü bir gelen
 
 ![Aquamere](../gorseller/media/image39.png)
 
-Şehre adını veren Aquamere ailesi, bu coğrafyanın en kadim sakinleridir ve Florentina Hanedanı’nın denizlerdeki mutlak hâkimiyetini kurmasına tarihi bir destek sağlamışlardır. Şehirdeki en imparatorluk yanlısı aile onlardır. Aslında kendi refahlarını büyütmekten çok, limandaki diğer başına buyruk haneleri dizginlemek, su altı halklarıyla dengeyi korumak ve Aquamere’i İmparatorluğun güvenilir bir çapası olarak tutmak için bütün mesailerini harcarlar. İhtişamlı görünürler ancak omuzlarındaki idari yük oldukça ağırdır.
+Şehre adını veren Aquamere ailesi, bu coğrafyanın en kadim sakinleridir ve Florentina Hanedanı’nın denizlerdeki mutlak hâkimiyetini kurmasına tarihi bir destek sağlamışlardır. Şehirdeki en imparatorluk yanlısı aile onlardır. Aslında kendi refahlarını büyütmekten çok, limandaki diğer başına buyruk haneleri dizginlemek, farklı kıyı halklarıyla dengeyi korumak ve Aquamere’i İmparatorluğun güvenilir bir çapası olarak tutmak için bütün mesailerini harcarlar. İhtişamlı görünürler ancak omuzlarındaki idari yük oldukça ağırdır.
 
 ### Blackfish
 

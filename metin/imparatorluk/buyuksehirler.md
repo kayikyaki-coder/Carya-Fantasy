@@ -64,7 +64,7 @@ Büyücüler arasındaki rekabet, soyluların güç arayışı ve merkezi otorit
 
 Aquamere, İmparatorluk’un en önemli kıyı şehirlerinden biridir ve geniş limanlarıyla deniz ticaretinin merkezinde yer alır. Şehir, denizle kurduğu doğrudan ilişki sayesinde ekonomik ve kültürel açıdan özgün bir yapı kazanmıştır.
 
-Nüfusun önemli bir bölümünü su altı kökenli ırklar oluşturur. Bu topluluklar yüzyıllar boyunca insanlarla birlikte yaşamış ve karma bir kültür ortaya çıkmıştır. Bu durum, mimariden gündelik yaşama kadar pek çok alanda kendini gösterir.
+Nüfusun önemli bir bölümü denizle geçinen, farklı kıyı ve adalardan gelmiş halklardan oluşur. Bu topluluklar yüzyıllar boyunca bir arada yaşamış ve karma bir kültür ortaya çıkmıştır. Bu durum, mimariden gündelik yaşama kadar pek çok alanda kendini gösterir.
 
 Aquamere resmî olarak İmparatorluk’a bağlıdır; ancak yerel gelenekler ve yaşam biçimleri nedeniyle merkeze olan bağlılığı zaman zaman esnek biçimde yorumlanır. Şehir çoğu zaman özerkliğe yakın bir yönetim anlayışıyla idare edilir ve İmparatorluk denetçileri dengeyi sağlamak amacıyla görevlendirilir.
 
