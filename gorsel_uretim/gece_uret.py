@@ -6,7 +6,7 @@ Kullanım:  python gece_uret.py                 (sabah 08:00'e kadar)
            python gece_uret.py --adet 2        (her turda prompt başına görsel)
 Önce WebUI '--api' ile açık olmalı. Ek kurulum gerekmez (yalnızca Python).
 """
-import argparse, base64, datetime as dt, json, os, random, sys, time, urllib.request
+import argparse, base64, datetime as dt, json, os, random, sys, time, urllib.error, urllib.request
 
 KLASOR = os.path.dirname(os.path.abspath(__file__))
 p = argparse.ArgumentParser()
@@ -34,11 +34,28 @@ if bitis <= simdi:
     bitis += dt.timedelta(days=1)
 print(f"{len(liste)} prompt, bitiş: {bitis:%d.%m %H:%M}")
 
-def istek(govde):
+def gonder(govde):
     r = urllib.request.Request(a.adres + "/sdapi/v1/txt2img", data=json.dumps(govde).encode(),
                                headers={"Content-Type": "application/json"})
     with urllib.request.urlopen(r, timeout=900) as y:
         return json.loads(y.read())
+
+yedek = False  # eski WebUI sürümleri için: scheduler alanı yok, sampler adı "DPM++ 2M Karras"
+def istek(govde):
+    global yedek
+    if yedek:
+        govde = dict(govde); govde.pop("scheduler", None)
+        govde["sampler_name"] = a.sampler + (" " + a.scheduler if a.scheduler else "")
+    try:
+        return gonder(govde)
+    except urllib.error.HTTPError as e:
+        govdetxt = e.read().decode("utf-8", "replace")[:600]
+        print(f"WebUI hatası {e.code}: {govdetxt}")
+        if not yedek:
+            print("Eski sürüm ayarlarıyla tekrar deneniyor...")
+            yedek = True
+            return istek(govde)
+        raise
 
 sayac, tur = 0, 0
 while dt.datetime.now() < bitis:
@@ -56,7 +73,7 @@ while dt.datetime.now() < bitis:
             try:
                 sonuc = istek(govde)
             except Exception as e:
-                print("Hata (WebUI --api ile açık mı?):", e); time.sleep(30); continue
+                print("Hata:", e, "| WebUI penceresindeki kırmızı hata satırlarına bak."); time.sleep(30); continue
             hedef = os.path.join(KLASOR, "ciktilar", x["kategori"])
             os.makedirs(hedef, exist_ok=True)
             ad = f'{x["no"]:03d}_{x["baslik"].replace(" ", "_")}_{tohum}'
