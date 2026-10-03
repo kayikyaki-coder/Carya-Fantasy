@@ -1,0 +1,925 @@
+{
+ "negatif": "text, letters, watermark, signature, logo, frame, border, ugly, deformed, bad anatomy, extra fingers, extra limbs, mutated hands, blurry, low quality, jpeg artifacts, cartoon, anime, 3d render, plastic, modern clothing, guns, cars, electricity poles, sci-fi, neon",
+ "promptlar": [
+  {
+   "no": 1,
+   "kategori": "florentina",
+   "baslik": "Florentina panoraması",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "vast imperial capital city at golden hour seen from a hill, white marble palaces with purple banners and gold trim, endless terraced flower gardens in bloom, great domed temple at the centre, river with stone bridges, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 2,
+   "kategori": "florentina",
+   "baslik": "Taht odası",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "immense imperial throne room, purple and gold banners hanging from vaulted ceiling, emperor on a high golden throne in the distance, rows of nobles in rich robes, shafts of light through tall stained glass windows, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 3,
+   "kategori": "florentina",
+   "baslik": "Lordlar salonu",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "grand hall of lords, long carved oak table with dozens of noblemen and noblewomen arguing, heraldic banners of many houses on the walls, candlelight, tension, political intrigue, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 4,
+   "kategori": "florentina",
+   "baslik": "Tanrılar Salonu",
+   "genislik": 832,
+   "yukseklik": 1216,
+   "prompt": "colossal temple hall shared by many gods, giant statues of different deities standing side by side, priests of different faiths in different robes praying together, incense smoke, beams of light, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 5,
+   "kategori": "florentina",
+   "baslik": "Çiçek pazarı",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "busy flower market square in a rich medieval capital, gardeners with carts of roses, lilies and violets, nobles and commoners mingling, purple awnings, morning sunlight, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 6,
+   "kategori": "florentina",
+   "baslik": "Saray bahçesi",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "secret palace garden at dusk, hedges, fountains, two nobles whispering under a rose arch, lanterns being lit, purple and gold colours, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 7,
+   "kategori": "florentina",
+   "baslik": "Akademi",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "imperial academy courtyard, students in robes carrying books, mages practising under supervision of stern masters, arched cloisters covered in flowering vines, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 8,
+   "kategori": "florentina",
+   "baslik": "İmparatorluk muhafızları",
+   "genislik": 832,
+   "yukseklik": 1216,
+   "prompt": "imperial guard in ornate plate armour with purple cloak and gold engravings standing at a palace gate, halberd, proud and disciplined, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 9,
+   "kategori": "florentina",
+   "baslik": "Strazni sorgu odası",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "dark interrogation chamber of the imperial security service, a stern inquisitor in black armour with a great helm on the table, chains on the wall, single candle, oppressive atmosphere, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 10,
+   "kategori": "florentina",
+   "baslik": "Gece şenliği",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "night festival in an imperial capital, fireworks of flower petals, lanterns over canals, masked nobles dancing on a terrace, theatre stage in the background, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 11,
+   "kategori": "florentina",
+   "baslik": "Soylu balosu",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "lavish masquerade ball in a marble palace, nobles in venetian half masks, crystal chandeliers, musicians, purple and gold silk, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 12,
+   "kategori": "florentina",
+   "baslik": "Kayıtçılar Kasabası",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "small town of scribes and record keepers, stone archive buildings, clerks carrying scrolls, quiet streets, ink-stained hands, overcast sky, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 13,
+   "kategori": "serenquill",
+   "baslik": "Bataklık şehri",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "orderly stone city rising from misty marshlands, narrow causeways and guarded gates as the only access, reed beds, herons, soft grey morning light, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 14,
+   "kategori": "serenquill",
+   "baslik": "Büyük kütüphane",
+   "genislik": 832,
+   "yukseklik": 1216,
+   "prompt": "enormous public library with towering bookshelves, ladders, reading desks with candles, quiet scholars and common folk reading together, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 15,
+   "kategori": "serenquill",
+   "baslik": "Mürekkep balıkçıları",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "fishermen in a calm river catching cuttlefish for ink, wooden boats, dark ink clouds in the water, marsh city on the horizon, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 16,
+   "kategori": "serenquill",
+   "baslik": "Mürekkepçi atölyesi",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "ink maker workshop, jars of black and blue ink, quills, drying parchment hanging on lines, apprentice grinding pigments, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 17,
+   "kategori": "serenquill",
+   "baslik": "Bataklık geçidi",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "fortified wooden and stone causeway gate across a marsh, guards with lanterns checking travellers, fog, dusk, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 18,
+   "kategori": "venture",
+   "baslik": "Fırsatlar şehri",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "wealthy trade city at a crossroads of caravan roads, red roofs and red banners everywhere, rose gardens, crowded markets, merchant caravans arriving at sunset, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 19,
+   "kategori": "venture",
+   "baslik": "İmparatorluk Bankası",
+   "genislik": 832,
+   "yukseklik": 1216,
+   "prompt": "monumental bank building with massive columns and red marble, guards at bronze doors, merchants with ledgers climbing the steps, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 20,
+   "kategori": "venture",
+   "baslik": "Banka kasası",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "underground vault full of gold coins and treasure chests, accountants with ledgers and scales, guarded by armoured soldiers, torchlight reflecting on gold, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 21,
+   "kategori": "venture",
+   "baslik": "Altın Terazi müzakeresi",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "merchant guild meeting in a candlelit counting house, golden scales on the table, contracts and coins, shrewd merchants of many races bargaining, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 22,
+   "kategori": "venture",
+   "baslik": "Gül bahçesi",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "red rose garden of a merchant palace, nobleman in crimson doublet counting coins on a marble bench, servants, warm afternoon, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 23,
+   "kategori": "venture",
+   "baslik": "Kumarhane gecesi",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "smoky gambling den at night, nobles and merchants playing cards and dice, piles of coins, red velvet, shady figures watching, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 24,
+   "kategori": "venture",
+   "baslik": "Kara Liman",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "shadowy riverside harbour of smugglers at night, barges unloading crates, hooded figures, lanterns, dark water, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 25,
+   "kategori": "venture",
+   "baslik": "Tüccar Yolu",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "long paved merchant road lined with inns and waystations, caravans of wagons and pack mules, dust in golden light, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 26,
+   "kategori": "arcans_gate",
+   "baslik": "Archantus kulesi",
+   "genislik": 832,
+   "yukseklik": 1216,
+   "prompt": "colossal ancient wizard tower rising into the clouds, a city of mages spreading at its base, glowing windows, floating runes, twilight sky, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 27,
+   "kategori": "arcans_gate",
+   "baslik": "Büyü dersi",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "mage academy lecture hall, master wizard demonstrating a spell of light, students taking notes, arcane diagrams on blackboards and floating in the air, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 28,
+   "kategori": "arcans_gate",
+   "baslik": "Büyülü eşya atölyesi",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "enchanter workshop full of magic items, glowing rings, staves and amulets on shelves, mage engraving runes into a sword, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 29,
+   "kategori": "arcans_gate",
+   "baslik": "Mühürpazar",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "market of magical goods, stalls selling scrolls, potions and enchanted trinkets, mages and adventurers haggling, colourful smoke, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 30,
+   "kategori": "arcans_gate",
+   "baslik": "Büyücü konseyi",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "council chamber where nobles and archmages sit facing each other in a semicircle, tension, imperial observer watching from a balcony, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 31,
+   "kategori": "aquamere",
+   "baslik": "Büyük liman",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "huge bustling sea port with dozens of tall sailing ships, multicultural sailors and merchants from many islands, colourful mixed architecture, seagulls, bright sea, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 32,
+   "kategori": "aquamere",
+   "baslik": "Liman meyhanesi",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "crowded harbour tavern, sailors from many lands drinking and singing, ship models hanging from beams, warm lantern light, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 33,
+   "kategori": "aquamere",
+   "baslik": "Deniz feneri",
+   "genislik": 832,
+   "yukseklik": 1216,
+   "prompt": "tall lighthouse on rocky cliffs in a storm, waves crashing, a ship fighting the sea below, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 34,
+   "kategori": "aquamere",
+   "baslik": "Balık pazarı",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "morning fish market on the docks, fishermen with nets, exotic sea creatures on ice, merchants shouting, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 35,
+   "kategori": "greenhall",
+   "baslik": "Orman sınır şehri",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "wooden frontier city at the edge of a great dark forest beside an inland bay, humans and orcs and goblins living together, timber palisades, smoke from chimneys, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 36,
+   "kategori": "greenhall",
+   "baslik": "Ortak pazar",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "market where humans, orcs, goblins and ogres trade wooden crafts and furs side by side, wary but peaceful, forest light, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 37,
+   "kategori": "greenhall",
+   "baslik": "Sınır devriyesi",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "mixed patrol of a human ranger and an orc warrior walking through a misty forest, bows and axes, alert, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 38,
+   "kategori": "greenhall",
+   "baslik": "Ahşap ustası",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "orc woodcarver crafting a beautiful wooden chest in a workshop full of sawdust, human apprentice watching, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 39,
+   "kategori": "greenhall",
+   "baslik": "Gerilim gecesi",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "tense night in a frontier town, torch-bearing human guards facing a group of goblins and gnolls, ogre in the shadows, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 40,
+   "kategori": "kuzey",
+   "baslik": "Berserkhold",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "brutal northern fortress city of giant stone halls near a frozen gulf, goliaths in furs, blizzard, wolf banners, harsh grey light, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 41,
+   "kategori": "kuzey",
+   "baslik": "Goliath savaşçılar",
+   "genislik": 832,
+   "yukseklik": 1216,
+   "prompt": "towering goliath warrior with grey stone-like skin and tribal markings, massive axe, fur cloak, snowstorm behind, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 42,
+   "kategori": "kuzey",
+   "baslik": "Kralın salonu",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "northern king's long hall, great fire pit in the centre, carved wooden pillars with wolf heads, jarls and warriors feasting, drinking horns, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 43,
+   "kategori": "kuzey",
+   "baslik": "Frostreach limanı",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "cold northern harbour town, longships and merchant cogs in icy water, fishermen and traders, snow on wooden roofs, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 44,
+   "kategori": "kuzey",
+   "baslik": "Kaldurvik",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "poor remote northern village surviving the winter, small turf houses half buried in snow, people dragging firewood, endurance and pride, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 45,
+   "kategori": "kuzey",
+   "baslik": "Jökulgard vadisi",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "small northern town in a sheltered valley surrounded by mountains, frozen river splitting it in two, fence of sharpened stakes and thorn bushes instead of walls, full moon rising, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 46,
+   "kategori": "kuzey",
+   "baslik": "Kurtboğazı geçidi",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "narrow mountain pass choked with snow drifts, single path into a hidden valley, lone traveller with a torch, wolves watching from the rocks, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 47,
+   "kategori": "kuzey",
+   "baslik": "Steinring düellosu",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "ritual duel to the death under a huge full moon inside a ring of standing stones, two warriors with axes, the whole town watching, cold breath, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 48,
+   "kategori": "kuzey",
+   "baslik": "Greatwolf tapınağı",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "wooden and stone temple on a hill, carved wolf heads on the facade, inside a single great hall with an eternal fire pit, worshippers in furs, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 49,
+   "kategori": "kuzey",
+   "baslik": "Kurt kanı",
+   "genislik": 832,
+   "yukseklik": 1216,
+   "prompt": "northern woman with faintly pointed ears and amber glowing eyes under a full moon, wolf-blooded, fur cloak, mysterious and wild, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 50,
+   "kategori": "kuzey",
+   "baslik": "Ungspill",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "northern youth festival, young men and women lifting stones, tug of war and spear throwing contests, elders watching, bonfires, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 51,
+   "kategori": "kuzey",
+   "baslik": "Kuzey avı",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "northern hunters tracking a giant elk through a snowy pine forest, bows drawn, breath steaming, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 52,
+   "kategori": "cuce",
+   "baslik": "Trumheim",
+   "genislik": 832,
+   "yukseklik": 1216,
+   "prompt": "gigantic dwarven city carved inside the highest mountain, colossal pillars and stone halls, roaring waterfalls of meltwater flowing through the city, forge glow, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 53,
+   "kategori": "cuce",
+   "baslik": "Cüce demirhanesi",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "dwarven forge hall, dwarves hammering glowing metal on anvils, sparks, rivers of molten metal, carved runes, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 54,
+   "kategori": "cuce",
+   "baslik": "Klan salonu",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "dwarven clan hall with ancestral statues, long tables, dwarves swearing an oath with hands on a stone tablet, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 55,
+   "kategori": "cuce",
+   "baslik": "Cogvrastum",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "chaotic gnome city of gears, cogwheels, rotating bridges, small steam contraptions and automatic doors, gnomes everywhere tinkering, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 56,
+   "kategori": "cuce",
+   "baslik": "Gnom mucit",
+   "genislik": 832,
+   "yukseklik": 1216,
+   "prompt": "gnome inventor in goggles in a cluttered workshop testing a clockwork machine, sparks and steam, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 57,
+   "kategori": "cuce",
+   "baslik": "Maden",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "deep dwarven mine with glowing crystals, mine carts on rails, dwarves with lanterns and pickaxes, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 58,
+   "kategori": "elf",
+   "baslik": "Aal Silente",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "ancient elven city grown in harmony with nature, white stone, giant trees and waterfalls woven into one architecture, soft ethereal light, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 59,
+   "kategori": "elf",
+   "baslik": "Elf arşivi",
+   "genislik": 832,
+   "yukseklik": 1216,
+   "prompt": "ancient elven archive of lineages and hymns, scrolls in crystal niches, elder elf reading, still and solemn, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 60,
+   "kategori": "elf",
+   "baslik": "Herbs",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "hidden halfling settlement of low round houses, gardens, hedges and secret paths blending into the landscape, peaceful afternoon, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 61,
+   "kategori": "elf",
+   "baslik": "Halfling bahçıvanlar",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "halflings harvesting vegetables and herbs in lush gardens, small wooden bridges, cosy cottages, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 62,
+   "kategori": "elf",
+   "baslik": "Sunland",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "elven desert city under a blazing sun, sandstone buildings with shaded courtyards and light-refracting stone patterns, sun temple, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 63,
+   "kategori": "elf",
+   "baslik": "Güneş rahibi",
+   "genislik": 832,
+   "yukseklik": 1216,
+   "prompt": "disciplined desert elf priestess in white and gold robes praying to the sun at dawn on a temple terrace, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 64,
+   "kategori": "elf",
+   "baslik": "Drow",
+   "genislik": 832,
+   "yukseklik": 1216,
+   "prompt": "dark-skinned drow elf assassin with white hair in an underground cavern lit by purple fungi, spider motifs, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 65,
+   "kategori": "ozgur",
+   "baslik": "Omnialis",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "sprawling dirty free trade city, guild towers, smoking workshops, early mechanical contraptions, crowded multiracial streets, wealth and poverty side by side, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 66,
+   "kategori": "ozgur",
+   "baslik": "Omnialis lonca kulesi",
+   "genislik": 832,
+   "yukseklik": 1216,
+   "prompt": "towering guild headquarters in a grimy city, rich guildmasters on a balcony looking down at poor workers, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 67,
+   "kategori": "ozgur",
+   "baslik": "Shahdadia",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "exotic southern city of domes and minarets, spice bazaar, incense smoke, shaded courtyards, warm sunset, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 68,
+   "kategori": "ozgur",
+   "baslik": "Cin",
+   "genislik": 832,
+   "yukseklik": 1216,
+   "prompt": "majestic djinn bound to an ornate brass lamp, swirling smoke body, respected by robed mystics bowing before it, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 69,
+   "kategori": "ozgur",
+   "baslik": "Hikâye anlatıcısı",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "storyteller in a shaded courtyard telling an ancient tale to a crowd sitting on carpets, lanterns, mystical atmosphere, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 70,
+   "kategori": "ozgur",
+   "baslik": "Aux",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "ancient proud human kingdom city with old heavy walls, closed gates, faded grandeur, old banners, traditional and isolated, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 71,
+   "kategori": "ozgur",
+   "baslik": "Aux kralı",
+   "genislik": 832,
+   "yukseklik": 1216,
+   "prompt": "old king on an ancient worn throne in a dim hall, proud and bitter, faded royal regalia, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 72,
+   "kategori": "ozgur",
+   "baslik": "Cortax",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "pirate city of connected islands and harbours, rope bridges, ships everywhere, kraken idols, stormy sky, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 73,
+   "kategori": "ozgur",
+   "baslik": "Kraken",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "giant kraken rising from a dark stormy sea wrapping tentacles around a pirate ship, lightning, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 74,
+   "kategori": "ozgur",
+   "baslik": "Korsan anlaşması",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "pirate captains sealing a deal with blood handshake in a tavern, maps and daggers on the table, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 75,
+   "kategori": "tapinak",
+   "baslik": "Yeryüzü Tapınağı",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "great cathedral-like earth temple of stone and living vines, statues of a father god of order and a mother goddess of compassion, pilgrims climbing stairs, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 76,
+   "kategori": "tapinak",
+   "baslik": "Fidanlar",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "young temple novices in simple robes studying scripture and astronomy in a cloister, strict teacher, morning light, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 77,
+   "kategori": "tapinak",
+   "baslik": "Alarath rahibeleri",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "gentle priestesses in pale robes caring for the sick in a temple infirmary, herbs, soft candlelight, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 78,
+   "kategori": "tapinak",
+   "baslik": "Savaş Bacıları",
+   "genislik": 832,
+   "yukseklik": 1216,
+   "prompt": "battle sister, fierce armed nun in plain steel armour over a grey habit, warhammer, prayer beads, penitent determined look, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 79,
+   "kategori": "tapinak",
+   "baslik": "Savaş Bacıları hücumu",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "company of armed warrior nuns charging into battle as the vanguard of an army, banners with holy symbols, mud and smoke, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 80,
+   "kategori": "tapinak",
+   "baslik": "Russ yolcusu",
+   "genislik": 832,
+   "yukseklik": 1216,
+   "prompt": "wandering temple paladin in leather and mail, wolf pelt, longbow and sword, guarding a country road, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 81,
+   "kategori": "tapinak",
+   "baslik": "Gulliman müfettişi",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "temple auditor monk with ledgers inspecting a provincial temple's accounts, nervous local priest, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 82,
+   "kategori": "tapinak",
+   "baslik": "Vulkan demircisi",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "temple blacksmith monk forging a holy blade, sparks, sacred symbols on the anvil, sweat and devotion, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 83,
+   "kategori": "tapinak",
+   "baslik": "Yüce Baş Rahip",
+   "genislik": 832,
+   "yukseklik": 1216,
+   "prompt": "high priest in heavy ceremonial robes and mitre on a stone dais, old wise face, golden staff, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 84,
+   "kategori": "tapinak",
+   "baslik": "Köy vaazı",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "travelling priestess preaching to villagers in a muddy village square, simple people listening, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 85,
+   "kategori": "gruplar",
+   "baslik": "Gözyaşı Şövalyeleri",
+   "genislik": 832,
+   "yukseklik": 1216,
+   "prompt": "knight of tears in dark plate armour with a red tear-drop emblem, hunting chaos cultists, grim face, rain, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 86,
+   "kategori": "gruplar",
+   "baslik": "Kaos avı",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "holy knights storming a hidden chaos cult ritual in a ruined chapel, corrupted cultists, eerie red light, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 87,
+   "kategori": "gruplar",
+   "baslik": "Ölü Ozanlar",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "secret gathering of bards in a candlelit cellar, lutes and quills, sharing forbidden songs mocking their lords, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 88,
+   "kategori": "gruplar",
+   "baslik": "El Birliği",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "secret society of mages meeting in a hidden chamber, hooded robes, glowing hands raised, sinister elitism, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 89,
+   "kategori": "gruplar",
+   "baslik": "Sessizlik Loncası",
+   "genislik": 832,
+   "yukseklik": 1216,
+   "prompt": "faceless assassin in dark clothes on a rooftop at night above a medieval city, moonlight, dagger, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 90,
+   "kategori": "gruplar",
+   "baslik": "Kül Toplayıcıları",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "explorer-merchants excavating ancient ruins in a cursed frozen wasteland, torches, relics, danger, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 91,
+   "kategori": "gruplar",
+   "baslik": "Kırık Kalkanlar",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "mercenary company camp, soldiers of many races, broken shield banner, sergeant reading contract terms, campfires, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 92,
+   "kategori": "gruplar",
+   "baslik": "Paralı asker",
+   "genislik": 832,
+   "yukseklik": 1216,
+   "prompt": "scarred veteran mercenary captain with a cracked shield and mismatched armour, cynical smile, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 93,
+   "kategori": "gruplar",
+   "baslik": "Diken Çemberi",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "druids and rangers gathering in a stone circle deep in an ancient forest, thorny vines, glowing mist, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 94,
+   "kategori": "gruplar",
+   "baslik": "Druid",
+   "genislik": 832,
+   "yukseklik": 1216,
+   "prompt": "old druid with antlered staff and robes covered in moss, animals around, deep forest, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 95,
+   "kategori": "mitoloji",
+   "baslik": "Amarath ve Alarath",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "two titanic gods, a radiant father of order in golden armour and a gentle mother of compassion in flowing robes, creating humankind from earth and light, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 96,
+   "kategori": "mitoloji",
+   "baslik": "Horus İsyanı",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "cataclysmic war of gods, a fallen god corrupted by chaos battling his divine father in a burning sky, armies below, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 97,
+   "kategori": "mitoloji",
+   "baslik": "Şehitlerin fedakârlığı",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "two divine warriors sacrificing themselves against four demon lords, explosion of holy light, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 98,
+   "kategori": "mitoloji",
+   "baslik": "Dört cehennem",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "four distinct hellish realms each ruled by a chaos lord: plague, blood, change and excess, dark epic vista, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 99,
+   "kategori": "mitoloji",
+   "baslik": "Tiamat",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "five-headed dragon goddess looming over worshippers in a dark temple, chromatic scales, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 100,
+   "kategori": "mitoloji",
+   "baslik": "Elf-Cüce savaşı",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "ancient battle between elven archers and dwarven shield walls in a mountain valley, banners, chaos, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 101,
+   "kategori": "mitoloji",
+   "baslik": "İmparatorluğun kuruluşu",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "first king proclaimed in a new city after a rebellion, crowds cheering, crown raised, banners of a new empire, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 102,
+   "kategori": "mitoloji",
+   "baslik": "Yeşilderililerin doğuşu",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "two brutal green war gods forging goblins, orcs and ogres from mud and fire, primal, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 103,
+   "kategori": "genel",
+   "baslik": "Maceracılar",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "party of adventurers, human knight, elf archer, dwarf warrior and halfling rogue, standing on a cliff looking at a distant city, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 104,
+   "kategori": "genel",
+   "baslik": "Yolda han",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "cosy roadside inn at night in the rain, warm light from windows, horses in the stable, travellers arriving, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 105,
+   "kategori": "genel",
+   "baslik": "Hanın içi",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "busy medieval inn common room, adventurers, a bard playing, innkeeper serving ale, fire, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 106,
+   "kategori": "genel",
+   "baslik": "Kuşatma",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "massive siege of a walled city, trebuchets, burning towers, knights charging, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 107,
+   "kategori": "genel",
+   "baslik": "Turnuva",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "knight jousting tournament, colourful pavilions, heraldic banners, nobles watching from stands, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 108,
+   "kategori": "genel",
+   "baslik": "Antik harabeler",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "overgrown ancient ruins of a forgotten civilisation, giant broken statues, explorers with torches, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 109,
+   "kategori": "genel",
+   "baslik": "Ejderha",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "huge dragon flying over a mountain range at sunset, tiny castle below, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 110,
+   "kategori": "genel",
+   "baslik": "Köy hayatı",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "peaceful farming village in the imperial heartland, wheat fields, windmill, peasants, warm summer evening, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 111,
+   "kategori": "genel",
+   "baslik": "Taç giyme",
+   "genislik": 832,
+   "yukseklik": 1216,
+   "prompt": "young noble heir kneeling during a solemn ceremony in a cathedral, crown being lowered, candlelight, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 112,
+   "kategori": "genel",
+   "baslik": "Soylu portresi",
+   "genislik": 832,
+   "yukseklik": 1216,
+   "prompt": "formal oil portrait of a stern noble lord in dark velvet with a heraldic chain, renaissance style, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 113,
+   "kategori": "genel",
+   "baslik": "Soylu hanım",
+   "genislik": 832,
+   "yukseklik": 1216,
+   "prompt": "formal oil portrait of a cunning noblewoman in purple silk and pearls holding a sealed letter, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 114,
+   "kategori": "genel",
+   "baslik": "Gece pazarı",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "shadowy night market in a back alley, smugglers, fortune teller, hooded buyers, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  },
+  {
+   "no": 115,
+   "kategori": "genel",
+   "baslik": "Harita masası",
+   "genislik": 1216,
+   "yukseklik": 832,
+   "prompt": "war council around a large map table, generals and nobles planning, candles, figurines, dark medieval fantasy, painterly concept art, detailed oil painting, cinematic composition, dramatic natural lighting, atmospheric depth, rich textures, muted earthy palette with strong accent colours, masterpiece, best quality, highly detailed"
+  }
+ ]
+}
