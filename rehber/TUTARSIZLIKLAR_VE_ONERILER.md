@@ -21,7 +21,7 @@ Okuma notları:
 - **Kurum adı (T9):** La Seraphine'deki "İmparatorluk Kilisesi" → "Yeryüzü Tapınağı"; Slezk'teki "Amarath" → "Yeryüzü İnancı"; "Gorg" → "Gork".
 - **Gözyaşı Şövalyeleri'nin "İmparator"u (T14):** Amarath.
 - **Serenquill'in katılışı (T7):** Barışla teslim; Mac Alister metni "teslim olduktan sonra" diye düzeltildi.
-- **Aux (T6):** Krallık veya şehir devleti, bakana göre; kralı olan bir şehir devleti olabilir ama imparatorluk değildir ve hâlâ özgür diyarlar arasındadır. "Aux İmparatorluğu" → "Aux Krallığı". Ek karar: Aux ilk insan krallığıdır; kralı kendini "bütün insanların imparatoru" sayar ve İmparatorluğu aşağı görür (unvan bir iddiadır, Aux fiilen imparatorluk değildir). Ayrıntılar `diger_diyarlar/aux.md`.
+- **Aux (T6):** Krallık veya şehir devleti, bakana göre; kralı olan bir şehir devleti olabilir ama imparatorluk değildir ve hâlâ özgür diyarlar arasındadır. "Aux İmparatorluğu" → "Aux Krallığı". Ek karar: Aux ilk insan krallığıdır; kralı kendini "bütün insanların imparatoru" sayar ve İmparatorluğu aşağı görür (unvan bir iddiadır, Aux fiilen imparatorluk değildir). Ayrıntılar `diger_diyarlar/aux_krallik.md`.
 - **Bankalar (T12):** İmparatorluk Bankası devletin hazinesi ve ordu ödemeleri; başındaki büyük ortak Venture hanedanı; Altın Terazi bankalardan ayrı, tüccarların bağımsız sendikası.
 - **Cehennem (T15):** Dört kat değil, dört ayrı alan; aralarında sıralama yok. Her alan bir Kaos tanrısının, her tanrının bir seçilmiş oğlu var (Angron–Khorn, Fulgrim–Slanesh, Magnus–Zinch, Curze–Nurgle); Horus hepsinin ortak seçilmişiydi ama öldü. Oğullar kimi zaman birbirine karşı savaşır, kimi zaman ortak olur, çok nadiren hepsi insanlığa karşı birleşir. (Curze–Nurgle eşleşmesi metinde yazılı değildi, eleme yoluyla yazıldı; yanlışsa söyleyin.)
 - **Kurt kanı (T18):** Jökulgardlılar Greatwolf'un armağanı sayar; Likan Laneti ile ilişkisi bilinçli bir sır olarak açık bırakıldı.
@@ -352,7 +352,7 @@ Okuma notları:
 
 17. **Yeraltı dünyası.** Drow, duergar, Loth'un takipçileri, "kader tabletlerini kırdı" (06), Vilgax'ın tohumları. Mevcut ipuçları: `01`, `06`, gruplar'daki Khan hizbi.
 
-18. **Aux'un tam sayfası.** Yazıldı: `diger_diyarlar/aux.md` (köken, imparatorluk iddiası, yalnızca Amarath ve Alarath'a tapan inanç, liyakat düzeni, ordu, ticaret, ayrılan haneler). Kraliyet sancağı da eklendi (lacivert zeminde sade, kapalı gümüş taç). Açık kalanlar: bugünkü kralın adı ve kral soyunun adı.
+18. **Aux'un tam sayfası.** Yazıldı: `diger_diyarlar/aux_krallik.md` (köken, imparatorluk iddiası, yalnızca Amarath ve Alarath'a tapan inanç, liyakat düzeni, ordu, ticaret, ayrılan haneler). Kraliyet sancağı da eklendi (lacivert zeminde sade, kapalı gümüş taç). Açık kalanlar: bugünkü kralın adı ve kral soyunun adı.
 
 19. **Gruplar için genişleme.** Her grubun şehirlerdeki merkezleri, hiyerarşisi, ünlü üyeleri (Ölü Ozanlar, El Birliği, Sessizlik Loncası, Kül Toplayıcıları, Diken Çemberi); grupların birbiriyle ilişkisi (ör. El Birliği ve Archantus, Diken Çemberi ve Greenhall).
 

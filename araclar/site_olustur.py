@@ -49,7 +49,7 @@ GRUPLAR = [
         ("cuce-kralligi", "Cüce Krallığı", "diger_diyarlar/cuce_kralligi.md"),
         ("kuzey-kralligi", "Kuzey Krallığı", "diger_diyarlar/kuzey_kralligi.md"),
         ("ozgur-sehirler", "Özgür Şehirler", "diger_diyarlar/ozgur_sehirler.md"),
-        ("aux", "Aux Krallığı", "diger_diyarlar/aux.md"),
+        ("aux", "Aux Krallığı", "diger_diyarlar/aux_krallik.md"),
     ]),
     ("Din", "Tapınağın düzeni ve halkın elinde dolaşan dua kitapları.", [
         ("yeryuzu-tapinagi", "Yeryüzü Tapınağı", "din/yeryuzu_tapinagi.md"),
