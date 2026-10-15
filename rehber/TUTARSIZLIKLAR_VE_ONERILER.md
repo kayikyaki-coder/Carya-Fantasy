@@ -352,7 +352,7 @@ Okuma notları:
 
 17. **Yeraltı dünyası.** Drow, duergar, Loth'un takipçileri, "kader tabletlerini kırdı" (06), Vilgax'ın tohumları. Mevcut ipuçları: `01`, `06`, gruplar'daki Khan hizbi.
 
-18. **Aux'un tam sayfası.** Yazıldı: `diger_diyarlar/aux.md` (köken, imparatorluk iddiası, yalnızca Amarath ve Alarath'a tapan inanç, liyakat düzeni, ordu, ticaret, ayrılan haneler). Açık kalanlar: bugünkü kralın adı ve kral soyunun adı.
+18. **Aux'un tam sayfası.** Yazıldı: `diger_diyarlar/aux.md` (köken, imparatorluk iddiası, yalnızca Amarath ve Alarath'a tapan inanç, liyakat düzeni, ordu, ticaret, ayrılan haneler). Kraliyet sancağı da eklendi (lacivert zeminde sade, kapalı gümüş taç). Açık kalanlar: bugünkü kralın adı ve kral soyunun adı.
 
 19. **Gruplar için genişleme.** Her grubun şehirlerdeki merkezleri, hiyerarşisi, ünlü üyeleri (Ölü Ozanlar, El Birliği, Sessizlik Loncası, Kül Toplayıcıları, Diken Çemberi); grupların birbiriyle ilişkisi (ör. El Birliği ve Archantus, Diken Çemberi ve Greenhall).
 

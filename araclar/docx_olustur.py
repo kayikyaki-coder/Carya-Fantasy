@@ -403,7 +403,14 @@ def write_image(doc, alt, path, warn):
     p = doc.add_paragraph()
     set_ppr(p, '<w:keepNext w:val="1"/>' + sp(before=60, after=160, line=240) + '<w:jc w:val="center"/>')
     try:
-        p.add_run().add_picture(kucult(path), width=Cm(3))
+        try:
+            from PIL import Image
+            with Image.open(path) as im:
+                dik = im.height > im.width * 1.5
+        except Exception:
+            dik = False
+        # Sancak gibi dik gorseller 6 cm yukseklige, amblemler 3 cm genislige olceklenir
+        p.add_run().add_picture(kucult(path), **({"height": Cm(6)} if dik else {"width": Cm(3)}))
     except Exception as e:  # bozuk gorsel
         warn(f"gorsel eklenemedi ({path}): {e}")
         return

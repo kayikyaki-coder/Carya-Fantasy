@@ -383,6 +383,9 @@ def sehir_haneleri(baslik):
     return f'<div class="houses"><p class="label">{esc(baslik)} soylu haneleri</p>{"".join(h)}</div>'
 
 
+GIRIS_GORSEL = {}  # belge id -> (dosya, aciklama)
+
+
 def belge_html(b):
     out = []
     kullanilan = set()
@@ -409,7 +412,12 @@ def belge_html(b):
             else:
                 out.append(f"<h4>{inline(t)}</h4>")
         elif k == "img":
-            continue  # gorseller bilgi kutusunda
+            if not yigin:  # madde basindaki gorsel (ornegin Aux sancagi): metnin yaninda figur
+                gorsel = os.path.basename(d[1])
+                GIRIS_GORSEL[b.id] = (gorsel, d[0])
+                out.append(f'<figure class="lead-fig"><img src="{img_src(gorsel)}" alt="{esc(d[0])}" loading="lazy">'
+                           f'<figcaption>{esc(d[0])}</figcaption></figure>')
+            continue  # bolum gorselleri bilgi kutusunda
         elif k == "p":
             out.append(f"<p>{baglantila(inline(d), kullanilan, kendi)}</p>")
         elif k == "li":
@@ -574,6 +582,11 @@ def armalar_sayfasi():
                      + (f'<img src="{img_src(gg)}" alt="" width="140" height="140" loading="lazy">' if gg else "")
                      + f"<span>{esc(ad)}</span></a>")
         h.append("</div></section>")
+    for bid, (g, alt) in GIRIS_GORSEL.items():
+        h.append(f'<section class="armory"><div class="armory-head"><div><h2><a href="#{bid}">{esc(BID[bid].baslik)}</a></h2>'
+                 f'<p class="meta">{esc(alt)}</p></div></div><div class="armory-grid">'
+                 f'<a class="arm banner" href="#{bid}"><img src="{img_src(g)}" alt="{esc(alt)}" loading="lazy">'
+                 f'<span>{esc(BID[bid].baslik.replace(" Krallığı", ""))}</span></a></div></section>')
     h.append("</div></article>")
     return "".join(h)
 
@@ -635,7 +648,7 @@ def arama_dizini():
 # --------------------------------------------------------------------------
 def gorselleri_kopyala():
     os.makedirs(IMG, exist_ok=True)
-    for g in set(GORSEL.values()):
+    for g in set(GORSEL.values()) | {g for g, _ in GIRIS_GORSEL.values()}:
         shutil.copy(os.path.join(MEDIA, g), os.path.join(IMG, g))
     for g in ("carya_haritasi_etiketli.jpg", "carya_haritasi_bos.png"):
         src = os.path.join(KOK, "harita", g)
@@ -651,13 +664,14 @@ SABLON_YOLU = os.path.join(KOK, "araclar", "site_sablon.html")
 
 
 def main():
+    makaleler = "".join(article_html(b) for b in BELGELER)  # GIRIS_GORSEL'i doldurur
     gorselleri_kopyala()
     with open(SABLON_YOLU, encoding="utf-8") as f:
         sablon = f.read()
     govde = (sablon
              .replace("{{NAV}}", nav_html())
              .replace("{{HOME}}", ana_sayfa())
-             .replace("{{ARTICLES}}", "".join(article_html(b) for b in BELGELER) + armalar_sayfasi() + harita_sayfasi())
+             .replace("{{ARTICLES}}", makaleler + armalar_sayfasi() + harita_sayfasi())
              .replace("{{INDEX}}", json.dumps(arama_dizini(), ensure_ascii=False).replace("</", "<\\/")))
     with open(os.path.join(CIKTI, "_artifact.html"), "w", encoding="utf-8") as f:
         f.write(govde)

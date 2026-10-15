@@ -1,5 +1,7 @@
 # Aux Krallığı
 
+![Aux kraliyet sancağı](../gorseller/media/sancak_Aux.png)
+
 Aux, insanların kurduğu ilk krallıktır. Taş surların ardında yaşayan, yabancıya kapısını kolay açmayan, kurallarını herkesten sıkı tutan bu eski ülke, Carya’daki bütün insan soylarının beşiği sayılır. Ona kimi “krallık”, kimi “şehir devleti” der; hangisinin söylendiği bakanın yerine göre değişir. Bugün özgür diyarlar arasında sayılsa da Aux tahtı bu sıfatı hiçbir zaman kabul etmemiştir: Aux kralı kendini yalnızca Aux’un değil, bütün insanların imparatoru olarak görür.
 
 ## İlk İnsan Krallığı
@@ -13,6 +15,8 @@ Ejderhalar azalıp ova yeniden yaşanabilir hâle geldiğinde Aux’un nüfuzu k
 Aux tahtı, insan soyunun ilk tahtı olduğu için kendini bütün insanların meşru yöneticisi sayar. Aux kralı resmî yazışmalarında kendini “bütün insanların imparatoru” olarak tanıtır; bu unvanı Aux dışında kimse kullanmaz, fakat Aux içinde kimse de sorgulamaz.
 
 Florentina’ya bakış bu iddiadan doğar. Kurucu Kral I. Florentin, Aux’a bağlı bir lord iken tahta isyan etmiş, Florentina şehrini kurup kendini kral ilan etmiştir. Aux’un gözünde İmparatorluk, ne kadar büyümüş olursa olsun, babasına başkaldırmış bir oğulun kurduğu düzendir. Bu yüzden Aux, kendinden kat kat geniş ve kalabalık olan İmparatorluğu hâlâ aşağı görür; Florentina’nın imparatorunu bir “isyancı lordun varisi” olarak anar ve onun unvanını tanımaz. Bu tutum İmparatorluk sarayında çoğu zaman alayla karşılanır, ancak Aux’un bu inadından hiç vazgeçmemesi de bir tür saygı uyandırır.
+
+Aux’un sancağı da bu iddianın sade bir ifadesidir: lacivert, dik bir sancağın ortasında mücevhersiz, çiçeksiz, kemerleri tepede kapanan gümüş bir taç. Kapalı taç imparatorluğun işaretidir; Aux onu süssüz bırakarak gücün süsten değil, kökten geldiğini söyler. Aux, kalkanlar üzerine çizilen armaları sonradan çıkmış bir soylu süsü sayar ve kendi işaretini yalnızca sancakta taşır. İmparatorluktaki yüzlerce hanenin kalkanları karşısında bu tek sancak, Aux’un gözünde kimin daha eski olduğunun yeterli kanıtıdır.
 
 ## İnanç
 
