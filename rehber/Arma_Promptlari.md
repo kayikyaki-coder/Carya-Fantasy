@@ -384,3 +384,68 @@ Field: per pale, left half black, right half dark steel grey. Main charge: a tal
 ```
 Field: solid pale slate blue (gentle, calm, #6C7F94) with a hard black iron bordure (a soft surface, an iron frame). Main charge: an open ivory book with a visible red wax seal at the centre of the pages; behind the book rises a small golden sun-burst with straight rays, and behind that, mostly hidden, a straight sword with only its point and hilt cross visible above and below the book (hidden zeal). Chief: a single gold key. Mood: polite, tolerant on the surface, rigid conviction beneath; bureaucratic and missionary. Medieval religious-administration look, no pictogram people, no gear icon. Frontier-forest style: a heater shield with a bordure made of a repeating oak-leaf chain in dark bronze. City palette: forest green (#2F6B3B), deep moss (#1D3F27), bronze brown (#7A5A34), bone ivory (#E8DFC6), a sparing accent of ochre (#C99A3C), outline #15210F. Medieval fantasy heraldic coat of arms illustration for a noble house, in the style of a hand-painted illuminated manuscript armorial with clean modern vector discipline: bold simple shapes, confident dark outlines of even weight (about 3-4 px at 1024 px), a strictly limited palette of 3 to 4 flat heraldic tinctures plus one dark outline colour, very subtle paper/vellum grain only in the background, no gradients, no glow, no lens flare, no sparkles, no drop shadows, no 3D rendering, no photorealism, no glossy icon look. The design must read instantly at thumbnail size and still hold fine detail when enlarged. Single shield only, perfectly centred, front view, symmetrical unless the charge requires otherwise, filling about 80 percent of a square 1:1 canvas on a plain warm parchment-coloured background with a soft vignette. The shield has a thin double border (outer dark line, inner metallic line) and its field is divided or plain exactly as described. Charges are drawn in a classic heraldic manner (stylised, flat, outlined), like real medieval blazon art, not like an app icon or emoji. Do not add a crown, helmet or any ornament above the shield unless this prompt explicitly asks for it. Absolutely no text, letters, numbers, mottoes, signatures or watermarks anywhere (unless a letter is explicitly requested, and none is).
 ```
+
+
+## Büyükşehir amblemleri
+
+Altı büyükşehrin amblemi aile armalarından ayrışsın diye yuvarlak mühür biçimindedir; eski amblemlerdeki temel simgeler korunmuştur. GPT Image 2.5 (low) ile üretilip onaylanan sürümlerin promptları aşağıdadır.
+
+### Florentina
+
+**Konsept:** Başkentin çiçeği; surları andıran dişli altın halka, akademi ve hukuk için küçük kitap ve tomar.
+
+**Tam prompt:**
+
+```
+Civic seal of Florentina, the imperial capital city. Format: a perfectly round medallion (city seal), NOT a shield. A broad antique-gold outer ring decorated with a crenellated inner edge like a city wall (small square merlons all around, pointing inward), then a thin crimson line. Inner field: solid imperial purple. Centre: a large stylised five-petal crimson flower with a gold seed-circle and a ring of five narrow ivory petals peeking behind, flat heraldic drawing (the city is famous for its flower gardens). Below the flower, a small closed gold book and a tiny gold scroll crossed (academies and law), small and quiet. Palette: imperial purple #3B2A5E, antique gold #D9A93B, crimson #A6333F, ivory #EFE6D2, outline near-black #1B1420. Style: medieval fantasy civic seal in hand-painted illuminated manuscript manner with clean vector discipline: bold flat shapes, confident even dark outlines around every element including the outer edge of the medallion, limited flat palette, no gradients, no glow, no sparkles, no drop shadows, no 3D, no photorealism, not an app icon. Single round seal only, centred, front view, filling about 80 percent of a square canvas on a plain warm parchment background with soft vignette. Absolutely no text, letters, numbers or mottoes anywhere.
+```
+
+### Serenquill
+
+**Konsept:** Tüy kalem taşıyan güvercin; şehri koruyan bataklık sazlıkları ve nehirler.
+
+**Tam prompt:**
+
+```
+Civic seal of Serenquill, a northern scholar city protected by marshes. Format: a perfectly round medallion (city seal), NOT a shield. A broad silver-white outer ring with a single row of small azure dots, then a thin slate-grey line. Inner field: solid northern azure. Centre: a white dove with wings raised and spread, in heraldic profile, holding a small gold quill in its beak. Below the dove, along the bottom of the field, a band of stylised dark fen-green marsh reeds and two flat silver wavy water lines (the marshes and rivers that guard the city). Palette: northern azure #2F5F8C, silver-white #E9EEF0, deep fen green #2F4F3A, slate grey #5D6770, a touch of gold, outline #14212B. Style: medieval fantasy civic seal in hand-painted illuminated manuscript manner with clean vector discipline: bold flat shapes, confident even dark outlines around every element including the outer edge of the medallion, limited flat palette, no gradients, no glow, no sparkles, no drop shadows, no 3D, no photorealism, not an app icon. Single round seal only, centred, front view, filling about 80 percent of a square canvas on a plain warm parchment background with soft vignette. Absolutely no text, letters, numbers or mottoes anywhere.
+```
+
+### Venture
+
+**Konsept:** Şehrin kırmızı gülü; altın sikkelerle çevrili halka ve gülün dibinde sikke yığını.
+
+**Tam prompt:**
+
+```
+Civic seal of Venture, the merchant city of opportunity and seat of the Imperial Bank. Format: a perfectly round medallion (city seal), NOT a shield. A broad black outer ring studded all around with small gold coins (bezants), then a thin deep-red line. Inner field: solid bright mercantile gold, plain, with nothing behind the rose. Centre: a single large heraldic red rose (five petals with an inner swirl, gold seeds) on a straight black stem with two black leaves, standing upright. At the foot of the stem, a small neat stack of three gold coins outlined in black. No crossed lines, no roads, no bars, no X shape anywhere. Palette: bright mercantile gold #F2B63A, deep red #B3262B, black #141414, outline #141414. Style: medieval fantasy civic seal in hand-painted illuminated manuscript manner with clean vector discipline: bold flat shapes, confident even dark outlines around every element including the outer edge of the medallion, limited flat palette, no gradients, no glow, no sparkles, no drop shadows, no 3D, no photorealism, not an app icon. Single round seal only, centred, front view, filling about 80 percent of a square canvas on a plain warm parchment background with soft vignette. Absolutely no text, letters, numbers or mottoes anywhere.
+```
+
+### Arcan’s Gate
+
+**Konsept:** Koran’ın kulesi ve dibindeki kapı; altı yıldız ve altı yerinden açılan rünlü halka.
+
+**Tam prompt:**
+
+```
+Civic seal of Arcan's Gate, a city of mages built around a great wizard's tower. Format: a perfectly round medallion (city seal), NOT a shield. A pale silver outer ring broken into six equal segments by small gaps (like a gate opening in six places), with tiny abstract rune ticks on it (not readable), then a thin midnight-blue line. Inner field: solid indigo. Centre: a tall slender silver wizard's tower with a pointed roof, one arched window and a stone base, standing on a short arch-shaped gate (an open doorway at its foot). Around the tower, six small four-pointed silver stars arranged evenly in a circle. Palette: indigo #3E3A78, midnight blue #12162E, pale silver #C9CCD6, a small accent of arcane teal #4CA7A0 in the tower window, outline #0E0E1F. Style: medieval fantasy civic seal in hand-painted illuminated manuscript manner with clean vector discipline: bold flat shapes, confident even dark outlines around every element including the outer edge of the medallion, limited flat palette, no gradients, no glow, no sparkles, no drop shadows, no 3D, no photorealism, not an app icon. Single round seal only, centred, front view, filling about 80 percent of a square canvas on a plain warm parchment background with soft vignette. Absolutely no text, letters, numbers or mottoes anywhere.
+```
+
+### Aquamere
+
+**Konsept:** Liman şehrinin pusula gülü; dalgalar ve halat halka.
+
+**Tam prompt:**
+
+```
+Civic seal of Aquamere, the great port city of sea trade and many island peoples. Format: a perfectly round medallion (city seal), NOT a shield. A broad deep-navy outer ring wrapped by a twisted silver rope pattern, then a thin sand-coloured line. Inner field: upper two thirds sea teal, lower third deep navy with three flat white wave lines. Centre: a large eight-point compass rose in silver and navy with a small coral-red tip on the north point, standing above the waves. Palette: sea teal #2C6F73, deep navy #10264A, silver #D5DBDF, sand #D8C49A, a touch of coral red #B8453A, outline #0C1B33. Style: medieval fantasy civic seal in hand-painted illuminated manuscript manner with clean vector discipline: bold flat shapes, confident even dark outlines around every element including the outer edge of the medallion, limited flat palette, no gradients, no glow, no sparkles, no drop shadows, no 3D, no photorealism, not an app icon. Single round seal only, centred, front view, filling about 80 percent of a square canvas on a plain warm parchment background with soft vignette. Absolutely no text, letters, numbers or mottoes anywhere.
+```
+
+### Greenhall
+
+**Konsept:** Meşe ağacı; insanlarla yeşil derili halkların kuruluş anlaşmasını simgeleyen tokalaşma.
+
+**Tam prompt:**
+
+```
+Civic seal of Greenhall, a frontier forest city where humans and green-skinned peoples live together by agreement. Format: a perfectly round medallion (city seal), NOT a shield. A broad dark-bronze outer ring carrying a repeating chain of small oak leaves, then a thin ochre line. Inner field: solid forest green. Centre: a broad oak tree with a rounded dark-moss crown and a bronze-brown trunk with visible spreading roots. In front of the trunk, two hands clasped in a handshake drawn flat, one in bone-ivory and one in muted green (the founding agreement of the two peoples), small and clear. Palette: forest green #2F6B3B, deep moss #1D3F27, bronze brown #7A5A34, bone ivory #E8DFC6, a sparing accent of ochre #C99A3C, outline #15210F. Style: medieval fantasy civic seal in hand-painted illuminated manuscript manner with clean vector discipline: bold flat shapes, confident even dark outlines around every element including the outer edge of the medallion, limited flat palette, no gradients, no glow, no sparkles, no drop shadows, no 3D, no photorealism, not an app icon. Single round seal only, centred, front view, filling about 80 percent of a square canvas on a plain warm parchment background with soft vignette. Absolutely no text, letters, numbers or mottoes anywhere.
+```

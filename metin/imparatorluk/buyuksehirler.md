@@ -4,7 +4,7 @@
 
 ## Florentina
 
-![Florentina](../gorseller/media/image32.png)
+![Florentina](../gorseller/media/amblem_Florentina.png)
 
 Florentina, İmparatorluk’un başkentidir ve idari, ekonomik ve kültürel yapısıyla tüm coğrafyada belirleyici bir konuma sahiptir. İmparator’un ikametgâhı bu şehirde bulunur; yönetimle ilgili tüm kararlar, Florentina’daki taht odasından alınır. Bu durum, şehri yalnızca bir yerleşim değil, aynı zamanda İmparatorluk’un güç ve denge merkezi hâline getirir.
 
@@ -20,7 +20,7 @@ Genel olarak Florentina, istikrar ve denge üzerine kurulmuş bir şehir olarak 
 
 ## Serenquill
 
-![Serenquill](../gorseller/media/image35.png)
+![Serenquill](../gorseller/media/amblem_Serenquill.png)
 
 Serenquill, Florentina’nın kuzeyinde yer alır ve İmparatorluk’a olan güçlü bağlılığıyla tanınır. Şehir, çevresini kuşatan bataklıklar sayesinde kara yoluyla gelecek tehditlere karşı doğal bir savunmaya sahiptir. Şehre erişimin sınırlı geçitlerle sağlanması, güvenlik açısından önemli bir avantaj oluşturur.
 
@@ -34,7 +34,7 @@ Serenquill halkı genellikle içe dönük, sade ve toplumsal uyumu önceleyen bi
 
 ## Venture
 
-![Venture](../gorseller/media/image22.png)
+![Venture](../gorseller/media/amblem_Venture.png)
 
 Venture, Florentina’nın güneyinde yer alır ve İmparatorluk içinde “fırsatlar şehri” olarak anılır. Verimli topraklara sahip olmasına rağmen, şehri asıl öne çıkaran unsur ticaretin merkezî bir faaliyet hâline gelmiş olmasıdır.
 
@@ -48,7 +48,7 @@ Venture’da farklı ırk ve cinsiyetlere, İmparatorluk sınırları içinde e�
 
 ## Arcan’s Gate
 
-![Arcan’s Gate](../gorseller/media/image36.png)
+![Arcan’s Gate](../gorseller/media/amblem_Arcans_Gate.png)
 
 Arcan’s Gate’in kökeni, Yükseliş’ten önceki dönemlere uzanır. Şehrin temeli, Koran adlı bir büyücünün inşa ettirdiği kule etrafında atılmıştır. Koran güçlü bir büyücüydü ama soylu değildi; krallıkta yükselmiş ve Arcan hanesinden biriyle evlenmiş, kan bağı olmasa da bu hanenin bir parçası sayılmıştır. Bu evlilikten resmî bir çocuğu kayıtlı değildir. Boş bir arazide kurduğu büyücü kulesi, o ilerleyen yıllarda tanrılar arasındaki bir olayda yükselip tanrı katına çıkana kadar da büyümeye devam etmiştir. Kule zamanla bir eğitim ve araştırma merkezine, sonunda diyarın en büyük büyücü akademisine dönüşmüştür (elfler kendi büyücü okullarının hâlâ daha büyük olduğunu söyler). Kule doğal bir cazibe merkezi olduğundan çevresinde büyü temelli bir yerleşim gelişmiş ve bu yerleşim zamanla şehre dönüşmüştür.
 
@@ -60,7 +60,7 @@ Büyücüler arasındaki rekabet, soyluların güç arayışı ve merkezi otorit
 
 ## Aquamere
 
-![Aquamere](../gorseller/media/image39.png)
+![Aquamere](../gorseller/media/amblem_Aquamere.png)
 
 Aquamere, İmparatorluk’un en önemli kıyı şehirlerinden biridir ve geniş limanlarıyla deniz ticaretinin merkezinde yer alır. Şehir, denizle kurduğu doğrudan ilişki sayesinde ekonomik ve kültürel açıdan özgün bir yapı kazanmıştır.
 
@@ -72,7 +72,7 @@ Genel olarak Aquamere, deniz ticaretinin kalbi olması ve farklı halkların ort
 
 ## Greenhall
 
-![Greenhall](../gorseller/media/image33.png)
+![Greenhall](../gorseller/media/amblem_Greenhall.png)
 
 Greenhall, İmparatorluk’un ormanlık sınır bölgelerinde yer alır ve hem coğrafi hem de toplumsal yapısıyla diğer büyükşehirlerden ayrılır. İnsanlar ile yeşil derili halkların birlikte yaşadığı bu şehir, karşılıklı anlaşma temelinde kurulmuştur.
 
