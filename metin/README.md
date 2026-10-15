@@ -20,6 +20,7 @@ Kaynak belgeler `kaynak/` klasöründedir; buradaki dosyalar onlardan bölümler
 - [Cüce Krallığı](diger_diyarlar/cuce_kralligi.md)
 - [Kuzey Krallığı](diger_diyarlar/kuzey_kralligi.md)
 - [Özgür Şehirler](diger_diyarlar/ozgur_sehirler.md)
+- [Aux Krallığı](diger_diyarlar/aux.md)
 
 ## Din
 - [Yeryüzü Tapınağı](din/yeryuzu_tapinagi.md)

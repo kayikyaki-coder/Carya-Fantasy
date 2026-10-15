@@ -49,6 +49,7 @@ GRUPLAR = [
         ("cuce-kralligi", "Cüce Krallığı", "diger_diyarlar/cuce_kralligi.md"),
         ("kuzey-kralligi", "Kuzey Krallığı", "diger_diyarlar/kuzey_kralligi.md"),
         ("ozgur-sehirler", "Özgür Şehirler", "diger_diyarlar/ozgur_sehirler.md"),
+        ("aux", "Aux Krallığı", "diger_diyarlar/aux.md"),
     ]),
     ("Din", "Tapınağın düzeni ve halkın elinde dolaşan dua kitapları.", [
         ("yeryuzu-tapinagi", "Yeryüzü Tapınağı", "din/yeryuzu_tapinagi.md"),
@@ -276,6 +277,7 @@ for b in BELGELER:
 ekle("Gözyaşı Şövalyeleri", bolum_id("gruplar", "Gözyaşı Şövalyeleri"))
 for ad, tid in TANRILAR:
     ekle(ad, tid)
+HEDEF["Aux"] = "aux"  # Aux'un kendi maddesi var; Ozgur Sehirler'deki kisa ozet yerine oraya baglanir
 
 HARF = "A-Za-z0-9ÇçĞğİıÖöŞşÜüÂâÎîÛû"
 
