@@ -27,6 +27,9 @@ Kaynak belgeler `kaynak/` klasöründedir; buradaki dosyalar onlardan bölümler
 - [Tiamat'ın Dua Kitabı](din/tiamat_dua_kitabi.md)
 - [Rahip Benton'un Dua Kitabı](din/benton_dua_kitabi.md)
 
+## Büyü
+- [Metafizik ve Büyüsel Etkileşimler](buyu/metafizik_ve_buyusel_etkilesimler.md)
+
 ## Gruplar ve tarikatlar
 - [Gruplar](gruplar.md)
 

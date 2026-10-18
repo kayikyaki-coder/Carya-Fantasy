@@ -56,6 +56,9 @@ GRUPLAR = [
         ("tiamat-dua-kitabi", "Tiamat’ın Dua Kitabı", "din/tiamat_dua_kitabi.md"),
         ("benton-dua-kitabi", "Rahip Benton’un Dua Kitabı", "din/benton_dua_kitabi.md"),
     ]),
+    ("Büyü", "Büyünün kaynakları ve onu kullanan yollar.", [
+        ("metafizik-ve-buyusel-etkilesimler", "Metafizik ve Büyüsel Etkileşimler", "buyu/metafizik_ve_buyusel_etkilesimler.md"),
+    ]),
     ("Gruplar", "Diyarın başlıca birlikleri, loncaları ve tarikatları.", [
         ("gruplar", "Gruplar ve Tarikatlar", "gruplar.md"),
     ]),
