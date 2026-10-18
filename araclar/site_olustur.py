@@ -55,6 +55,7 @@ GRUPLAR = [
         ("yeryuzu-tapinagi", "Yeryüzü Tapınağı", "din/yeryuzu_tapinagi.md"),
         ("tiamat-dua-kitabi", "Tiamat’ın Dua Kitabı", "din/tiamat_dua_kitabi.md"),
         ("benton-dua-kitabi", "Rahip Benton’un Dua Kitabı", "din/benton_dua_kitabi.md"),
+        ("sapkin-tarikatlar-risalesi", "Sapkın Tarikatlar Risalesi", "din/sapkin_tarikatlar_risalesi.md"),
     ]),
     ("Büyü", "Büyünün kaynakları ve onu kullanan yollar.", [
         ("metafizik-ve-buyusel-etkilesimler", "Metafizik ve Büyüsel Etkileşimler", "buyu/metafizik_ve_buyusel_etkilesimler.md"),
